@@ -1,6 +1,7 @@
 #include "randGen.h"
 #include "cstdlib"
 #include"HEAL.h"
+#include"SU.h";
 randGen::randGen()
 {
 	A = 0;
@@ -126,5 +127,20 @@ Unit* randGen::GenAlienUnit(int ASpercent, int AMpercent, int ADpercent, int sma
 		RandUnit->setAttackCap(tempATCap);
 		return RandUnit;
 	}
+}
+Unit* randGen::GenSU( int smallHealth, int highHealth, int smallPower, int highPower, int smallAttackCap, int highAttackCap)
+{
+	RandUnit = new SU();//generate a new SU
+	RandUnit->settype(7);//set its type to ES
+	//then generating random power , health and ATCapcity//
+	int tempPower = getRandBetween(smallPower, highPower);
+	RandUnit->setPower(tempPower);
+	int tempHealth = getRandBetween(smallHealth, highHealth);
+	RandUnit->setHealth(tempHealth);
+	RandUnit->setinitialhealth(tempHealth);
+	int tempATCap = getRandBetween(smallAttackCap, highAttackCap);
+	RandUnit->setAttackCap(tempATCap);
+	///////////////////
+	return RandUnit;
 }
 

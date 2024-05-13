@@ -131,6 +131,7 @@
     <ClCompile Include="AlienDrone.cpp" />
     <ClCompile Include="AlienMonster.cpp" />
     <ClCompile Include="AlienSoldier.cpp" />
+    <ClCompile Include="AlliedArmy.cpp" />
     <ClCompile Include="HEAL.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="EarthArmy.cpp" />
@@ -139,6 +140,7 @@
     <ClCompile Include="Game.cpp" />
     <ClCompile Include="Gunnery.cpp" />
     <ClCompile Include="randGen.cpp" />
+    <ClCompile Include="SU.cpp" />
     <ClCompile Include="Unit.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -146,6 +148,7 @@
     <ClInclude Include="AlienDrone.h" />
     <ClInclude Include="AlienMonster.h" />
     <ClInclude Include="AlienSoldier.h" />
+    <ClInclude Include="AlliedArmy.h" />
     <ClInclude Include="ArrayStack.h" />
     <ClInclude Include="DoubleLinkedQueue.h" />
     <ClInclude Include="DoubleNode.h" />
@@ -162,6 +165,7 @@
     <ClInclude Include="QueueADT.h" />
     <ClInclude Include="randGen.h" />
     <ClInclude Include="StackADT.h" />
+    <ClInclude Include="SU.h" />
     <ClInclude Include="Unit.h" />
   </ItemGroup>
   <ItemGroup>

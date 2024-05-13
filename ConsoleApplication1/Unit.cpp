@@ -122,3 +122,12 @@ bool  Unit::getinfection()
 {
 	return infected;
 }
+void Unit::setimmunity(bool a)
+{
+	immunity = a;
+}
+
+bool Unit::getimmunity()
+{
+	return immunity;
+}

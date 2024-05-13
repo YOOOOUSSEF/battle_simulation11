@@ -17,6 +17,7 @@ public:
 	int   getRandBetween(int low, int high);
 	Unit* GenEarthUnit(int ESpercent, int ETpercent, int EGpercent,int HUpercent, int ESsmall, int EShigh, int ETsmall, int EThigh, int EGsmall, int EGhigh);
 	Unit* GenAlienUnit(int ASpercent, int AMpercent, int ADpercent, int ASsmall, int AShigh, int AMsmall, int AMhigh, int ADsmall, int ADhigh);
-	
+	Unit* GenSU( int smallHealth, int highHealth, int smallPower, int highPower, int smallAttackCap, int highAttackCap);
+
 };
 

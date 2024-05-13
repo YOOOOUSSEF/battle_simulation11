@@ -15,6 +15,7 @@ private:
 	int type;
 	int initialhealth,timeUml;
 	bool infected;
+	bool immunity;
 public:
 	Unit(double h=0, double pw=0, double AC=0, int tj=0);
 	virtual void Attack(Unit*&);
@@ -41,6 +42,9 @@ public:
 	friend ostream& operator << (ostream& , Unit *u);
 	void setinfection(bool a);
 	bool  getinfection();
+	void setimmunity(bool a);
+	bool  getimmunity();
+
 };
 
 

@@ -1,6 +1,7 @@
 #pragma once
 #include"AlienArmy.h"
 #include"EarthArmy.h"
+#include"AlliedArmy.h"
 #include"randGen.h"
 #include"LinkedQueue.h"
 #include"HEAL.h"
@@ -14,8 +15,13 @@ private:
 	int SmallPowerA, HighPowerA;
 	int SmallHealthA, HighHealthA;
 	int SmallAttackCapA, HighAttackCapA;
+	int SmallPowerS, HighPowerS;
+	int SmallHealthS, HighHealthS;
+	int SmallAttackCapS, HighAttackCapS;
+	int infectionthreshold;
 	EarthArmy earthArmy;
 	AlienArmy alienArmy;
+	AlliedArmy alliedarmy;
 	randGen R;
 	
 	LinkedQueue<Unit*> KilledList;
@@ -43,5 +49,6 @@ public:
 	void CreateOutputFile(char filename[],LinkedQueue<Unit*>, LinkedQueue<Unit*>, LinkedQueue<Unit*>, LinkedQueue<Unit*>, LinkedQueue<Unit*>
 		, LinkedQueue<Unit*>, LinkedQueue<Unit*>, LinkedQueue<Unit*>, LinkedQueue<Unit*>, LinkedQueue<Unit*>);
 	void infectionspread();
+	bool needSU();
 };
 

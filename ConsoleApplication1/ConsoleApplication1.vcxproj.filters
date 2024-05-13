@@ -54,6 +54,12 @@
     <ClCompile Include="HEAL.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="AlliedArmy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SU.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="StackADT.h">
@@ -117,6 +123,12 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="HEAL.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AlliedArmy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SU.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

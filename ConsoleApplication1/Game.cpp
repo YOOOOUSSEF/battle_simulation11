@@ -2,7 +2,7 @@
 #include <fstream>
 #include<iostream>
 #include<string.h>
-using namespace std;
+//using namespace std;
 Game::Game()
 {
 	int input=-1;
@@ -25,7 +25,7 @@ Game::Game()
 	cout << "enter any Number except -1 to start " << endl;
 	cin >> input;
 	srand(time(NULL));
-	while (input!=-1 && timeStep!=50)
+	while (input!=-1 &&timeStep!=50)
 	{
 		if(R.GenerateA(Prob))//generate randomA from randGen
 			for (int i = 0; i < N; i++) 
@@ -53,13 +53,20 @@ Game::Game()
 					alienArmy.addAlienMonster(u);//add to alien monsters array of pointers
 				else alienArmy.addAlienDrone(u);//add to alien drones doubly linked queue of drones
 			}
-
+		if (needSU())
+		{
+			if (R.GenerateA(Prob))//generate random c for randGen
+				for (int i = 0; i < N; i++) {
+					Unit* u = R.GenSU(SmallHealthS, HighHealthS, SmallPowerS, HighPowerS, SmallAttackCapS, HighAttackCapS);//generating an SU unit
+					u->setTJ(timeStep);
+					if (u->getTYPE() == 7)
+						alliedarmy.addSU(u);//add to SU	
+				}
+		}
 		AttackLogic();
 
 		timeStep++;
 	
-
-
 		cout <<endl<< "enter any  Number except -1 to start " << endl;
 		cin >> input;
 	}
@@ -91,13 +98,19 @@ void Game::LoadFromFile(char filename[]) {
 	}
 	file >> N >> ES >> ET >> EG >>HU>> AS >> AM >> AD >> Prob;//assigning the loading parameters for generation of units
 	file >> SmallPowerE >> HighPowerE >> SmallHealthE >>  HighHealthE >> SmallAttackCapE >> HighAttackCapE;//high a low value limits of every type units
-	file >> SmallPowerA >> HighPowerA >> SmallHealthA >> HighHealthA >> SmallAttackCapA >> HighAttackCapA >> infectionprob;
+	file >> SmallPowerA >> HighPowerA >> SmallHealthA >> HighHealthA >> SmallAttackCapA >> HighAttackCapA;
+	file>> infectionprob;
+	file >> infectionthreshold;
+	file >> SmallPowerS >> HighPowerS >> SmallHealthS >> HighHealthS >> SmallAttackCapS >> HighAttackCapS;
 	HighPowerE = -HighPowerE;//removing the minus sign of the high value
 	HighPowerA = -HighPowerA;
 	HighHealthE = -HighHealthE;
 	HighHealthA = -HighHealthA;
 	HighAttackCapA = -HighAttackCapA;
 	HighAttackCapE = -HighAttackCapE;
+	HighPowerS = -HighPowerS;
+	HighHealthS = -HighHealthS;
+	HighAttackCapS = -HighAttackCapS;
 	file.close();
 	
 }
@@ -153,32 +166,64 @@ void Game::AttackLogic() {
 	Unit* Es = nullptr, * As = nullptr;
 	bool as = true, es = true;
 	es = earthArmy.RemoveEarthSoldier(Es);
-	if (es) {
-		
-		AttackedFromES.enqueue(Es);//the attacker unit
-		for (int i = 0; i < Es->getAttackCap(); i++) {
-			as = alienArmy.RemoveAlienSoldier(As);
-			if (as) {
-				Es->Attack(As);
-				if (As->getTa() == -1)
-					As->setTa(timeStep);
-				if (As->getHealth() <= 0) {
-					As->setTd(timeStep);
-					addToKilledList(As);
+	if(es)
+	{
+		if (!(Es->getinfection())) {
+
+			AttackedFromES.enqueue(Es);//the attacker unit
+			for (int i = 0; i < Es->getAttackCap(); i++) {
+				as = alienArmy.RemoveAlienSoldier(As);
+				if (as) {
+					Es->Attack(As);
+					if (As->getTa() == -1)
+						As->setTa(timeStep);
+					if (As->getHealth() <= 0) {
+						As->setTd(timeStep);
+						addToKilledList(As);
+					}
+					else
+						TempList.enqueue(As);
+
+					AttackedFromES.enqueue(As);//List for printing the last attacked As
+
 				}
-				else 
-					TempList.enqueue(As);
-			
-				AttackedFromES.enqueue(As);//List for printing the last attacked As
-				
+			}
+			earthArmy.addEarthSoldier(Es);
+		}
+		else
+		{
+
+			if (es) {
+
+				AttackedFromES.enqueue(Es);//the attacker unit
+				for (int i = 0; i < Es->getAttackCap(); i++) {
+					as = earthArmy.RemoveEarthSoldier(As); //attack his friend
+					if (as) {
+						Es->Attack(As);
+						if (As->getTa() == -1)
+							As->setTa(timeStep);
+						if (As->getHealth() <= 0) {
+							As->setTd(timeStep);
+							addToKilledList(As);
+						}
+						else
+							TempList.enqueue(As);
+
+						AttackedFromES.enqueue(As);//List for printing the last attacked As
+
+					}
+				}
+				earthArmy.addEarthSoldier(Es);
 			}
 		}
-		earthArmy.addEarthSoldier(Es);
 	}
+	
 	while (!TempList.isEmpty()) {
 		Unit* unit = nullptr;
 		TempList.dequeue(unit);
-		alienArmy.addAlienSoldier(unit);
+		if (unit->getTYPE() == 3)
+			alienArmy.addAlienSoldier(unit);
+		else earthArmy.addEarthSoldier(unit);
 	}
 	//////////////////////////////////////////////////////////tank
 	Unit* Et = nullptr, * Am = nullptr;
@@ -476,8 +521,11 @@ void Game::AttackLogic() {
 		int randinfection = rand() % 101;
 		if (randinfection <= infectionprob && (unit->getTYPE() == 0))
 		{
-			unit->setinfection(true);
-			infectioncount++;
+			if (!(unit->getimmunity()))
+			{
+				unit->setinfection(true);
+				infectioncount++;
+			}
 		}
 
 		if (unit->getTYPE() == 0)
@@ -1007,10 +1055,18 @@ void Game::infectionspread()
 				}
 				else
 				{
-					temp->setinfection(true);
-					q.enqueue(temp);
-					infectioncount++;
-					break;
+					if (!(temp->getimmunity()))
+					{
+						temp->setinfection(true);
+						q.enqueue(temp);
+						infectioncount++;
+						break;
+					}
+					else
+					{
+						q.enqueue(temp);
+						continue;
+					}
 				}
 			}
 		}
@@ -1025,4 +1081,25 @@ void Game::infectionspread()
 		earthArmy.addEarthSoldier(temp);
 
 	}
+}
+bool Game::needSU()
+{
+	int countES=0;
+	int countinfected=0;
+	Unit* temp;
+	LinkedQueue <Unit*> q;
+	while (earthArmy.RemoveEarthSoldier(temp))
+	{
+		countES++;
+		if (temp->getinfection()) countinfected++;
+		q.enqueue(temp);
+	}
+	while (q.dequeue(temp))
+	{
+		earthArmy.addEarthSoldier(temp);
+	}
+	double percentageofinfected = (double(countinfected) / countES) * 100.0;
+	if (percentageofinfected >= infectionthreshold) return true;
+	else return false;
+
 }
