@@ -10,6 +10,7 @@ Unit::Unit(double h, double pw, double AC, int tj) :Health(h), Power(pw), Attack
 	initialhealth = h;
 	timeUml = -1;
 	infected = false;
+	immunity = false;
 }
 
 void Unit::Attack(Unit*&a)

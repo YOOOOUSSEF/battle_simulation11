@@ -6,6 +6,9 @@
 Game::Game()
 {
 	int input=-1;
+ Real_infection_count=0;
+
+	infectioncount = 0;
      mode = 0;
 	num_of_healed = 0;
 	counterForUML1 = counterForUML2 = 0;
@@ -151,17 +154,49 @@ void Game::AttackLogic() {
 	////////////////////////////////////////////////////////////solider
 	LinkedQueue<Unit*> TempList;
 
+	LinkedQueue<Unit*> AttackedFromSu;
+	LinkedQueue<Unit*> AttackedFromAsforSu;
+	LinkedQueue<Unit*> AttackedFromAmforSu;
 	LinkedQueue<Unit*> AttackedFromES;
 	LinkedQueue<Unit*> AttackedFromETforMonster;
 	LinkedQueue<Unit*> AttackedFromETforSoilder;
 	LinkedQueue<Unit*> AttackedFromEGforMonster;
 	LinkedQueue<Unit*> AttackedFromEGforDrones;
-	LinkedQueue<Unit*> AttackedFromAS;
+	LinkedQueue<Unit*> AttackedFromASforEs;
 	LinkedQueue<Unit*> AttackedFromAMforSoilder;
 	LinkedQueue<Unit*> AttackedFromAMforTank;
 	LinkedQueue<Unit*> AttackedFromADforGunnery;
 	LinkedQueue<Unit*> AttackedFromADforTank;
 
+	Unit* Su = nullptr,*Als=nullptr;
+	bool su;
+	bool als;
+
+	su = alliedarmy.RemoveSU(Su);
+	if (su) {
+		AttackedFromSu.enqueue(Su);
+		for (int i = 0; i < Su->getAttackCap(); i++) {
+			als = alienArmy.RemoveAlienSoldier(Als);
+			if (als) {
+				Su->Attack(Als);
+				if (Als->getTa() == -1)
+					Als->setTa(timeStep);
+				if (Als->getHealth() <= 0) {
+					Als->setTd(timeStep);
+					addToKilledList(Als);
+				}
+				else
+					TempList.enqueue(Als);
+				AttackedFromSu.enqueue(Als);
+			}
+		}
+		alliedarmy.addSU(Su);
+	}
+	while (!TempList.isEmpty()) {
+		Unit* unit = nullptr;
+		TempList.dequeue(unit);
+		alienArmy.addAlienSoldier(unit);
+	}
 
 	Unit* Es = nullptr, * As = nullptr;
 	bool as = true, es = true;
@@ -194,22 +229,27 @@ void Game::AttackLogic() {
 		{
 
 			if (es) {
-
+				bool esnotin;
+				Unit* EsNotIn = nullptr;
 				AttackedFromES.enqueue(Es);//the attacker unit
 				for (int i = 0; i < Es->getAttackCap(); i++) {
-					as = earthArmy.RemoveEarthSoldier(As); //attack his friend
-					if (as) {
-						Es->Attack(As);
-						if (As->getTa() == -1)
-							As->setTa(timeStep);
-						if (As->getHealth() <= 0) {
-							As->setTd(timeStep);
-							addToKilledList(As);
+					esnotin = earthArmy.RemoveEarthSoldier(EsNotIn); //attack his friend
+					if (esnotin) {
+						Es->Attack(EsNotIn);
+						if (EsNotIn->getTa() == -1)
+							EsNotIn->setTa(timeStep);
+						if (EsNotIn->getHealth() <= 0) {
+							EsNotIn->setTd(timeStep);
+							if (EsNotIn->getinfection()) {
+								Real_infection_count--;
+							
+							}
+							addToKilledList(EsNotIn);
 						}
 						else
-							TempList.enqueue(As);
+							TempList.enqueue(EsNotIn);
 
-						AttackedFromES.enqueue(As);//List for printing the last attacked As
+						AttackedFromES.enqueue(EsNotIn);//List for printing the last attacked As
 
 					}
 				}
@@ -223,7 +263,7 @@ void Game::AttackLogic() {
 		TempList.dequeue(unit);
 		if (unit->getTYPE() == 3)
 			alienArmy.addAlienSoldier(unit);
-		else earthArmy.addEarthSoldier(unit);
+		else  earthArmy.addEarthSoldier(unit);
 	}
 	//////////////////////////////////////////////////////////tank
 	Unit* Et = nullptr, * Am = nullptr;
@@ -308,7 +348,7 @@ void Game::AttackLogic() {
 		TempList.dequeue(unit);
 		if (unit->getTYPE() == 3)
 			alienArmy.addAlienSoldier(unit);
-		else
+		else 
 			alienArmy.addAlienMonster(unit);
 	}
 	///////////////////////////////////////////////////////////////Gunnery
@@ -392,7 +432,7 @@ void Game::AttackLogic() {
 		TempList.dequeue(unit);
 		if (unit->getTYPE() == 4)
 			alienArmy.addAlienMonster(unit);
-		else {
+		else if(unit->getTYPE()==5) {
 			if (j % 2 == 0)
 				alienArmy.addAlienDrone(unit);
 			else
@@ -402,38 +442,64 @@ void Game::AttackLogic() {
 	}
 	//////////////////////////////////////////////////////////aliensolider
 	{
-
+		Unit* Su = nullptr; bool su;
 		Unit* Es = nullptr, * As = nullptr;
 		bool as = true, es = true;
 		as = alienArmy.RemoveAlienSoldier(As);
 		if (as)
 		{
 			
-				AttackedFromAS.enqueue(As);//the Attacker unit
-			for (int i = 0; i < As->getAttackCap(); i++)
+				AttackedFromASforEs.enqueue(As);//the Attacker unit
+			for (int i = 0; i < As->getAttackCap(); )
 			{
-				es = earthArmy.RemoveEarthSoldier(Es);
-				if (es)
-				{
-					As->Attack(Es);
-					if (Es->getTa() == -1)Es->setTa(timeStep);
-					if (Es->getHealth() <= 0)
-					{
-						if (Es->getTd() == -1)Es->setTd(timeStep);
-						addToKilledList(Es);
-					}
-					else if (Es->getHealth() < .2 * Es->getinitialhealth()) {
-						Es->settimeUml(timeStep);
-						Uml1.enqueue(Es, 10000 - Es->getHealth());
-						counterForUML1++;
+				bool flag1 = false, flag2 = false;
+				su = alliedarmy.RemoveSU(Su);
+				if (su) {
+					i++;
+					flag1 = true;
+					As->Attack(Su);
+					if (Su->getTa() == -1)
+						Su->setTa(timeStep);
+					if (Su->getHealth() <= 0) {
+						Su->setTd(timeStep);
+						addToKilledList(Su);
 					}
 					else
-					{
-						TempList.enqueue(Es);
-					}
-					
-						AttackedFromAS.enqueue(Es);//List for printing the last attacked ES by AS
+						TempList.enqueue(Su);
+					AttackedFromAsforSu.enqueue(Su);
 				}
+				if (i < As->getAttackCap()) {
+					es = earthArmy.RemoveEarthSoldier(Es);
+					if (es)
+					{
+						i++;
+						flag2 = true;
+						As->Attack(Es);
+						if (Es->getTa() == -1)Es->setTa(timeStep);
+						if (Es->getHealth() <= 0)
+						{
+							if (Es->getTd() == -1)Es->setTd(timeStep);
+							if (Es->getinfection()) {
+								Real_infection_count--;
+								
+							}
+							addToKilledList(Es);
+						}
+						else if (Es->getHealth() < .2 * Es->getinitialhealth()) {
+							Es->settimeUml(timeStep);
+							Uml1.enqueue(Es, 10000 - Es->getHealth());
+							counterForUML1++;
+						}
+						else
+						{
+							TempList.enqueue(Es);
+						}
+
+						AttackedFromASforEs.enqueue(Es);//List for printing the last attacked ES by AS
+					}
+				}
+				if (!flag1 && !flag2)
+					break;
 			}
 			alienArmy.addAlienSoldier(As);
 		}
@@ -441,7 +507,10 @@ void Game::AttackLogic() {
 	while (!TempList.isEmpty()) {
 		Unit* unit = nullptr;
 		TempList.dequeue(unit);
+		if (unit->getTYPE() == 0)
 			earthArmy.addEarthSoldier(unit);
+		else
+			alliedarmy.addSU(unit);
 	}
 	///////////////////////////////////////////////////////////////////monster
 	{
@@ -457,29 +526,62 @@ void Game::AttackLogic() {
 
 			for (int i = 0; i < Am->getAttackCap(); )
 			{
-				bool flag1 = false, flag2 = false;
-				es = earthArmy.RemoveEarthSoldier(Es);
-				if (es) {
+				bool flag1 = false, flag2 = false,flag3=false;
+				su = alliedarmy.RemoveSU(Su);
+				if (su) {
 					i++;
-					flag1 = true;
-					Am->Attack(Es);
-					if (Es->getTa() == -1)Es->setTa(timeStep);
-					if (Es->getHealth() <= 0)
-					{
-						Es->setTd(timeStep);
-						addToKilledList(Es);
-					}
-					else if (Es->getHealth() < .2 * Es->getinitialhealth()) {
-						Es->settimeUml(timeStep);
-						Uml1.enqueue(Es, 10000 - Es->getHealth());
-						counterForUML1++;
+					flag3 = true;
+					Am->Attack(Su);
+					if (Su->getTa() == -1)
+						Su->setTa(timeStep);
+					if (Su->getHealth() <= 0) {
+						Su->setTd(timeStep);
+						addToKilledList(Su);
 					}
 					else
-					{
-						TempList.enqueue(Es);
-					}
-					
+						TempList.enqueue(Su);
+					AttackedFromAmforSu.enqueue(Su);
+				}
+				if (i < Am->getAttackCap()) {
+					es = earthArmy.RemoveEarthSoldier(Es);
+					if (es) {
+						srand(time(NULL));
+						int randinfection = rand() % 100 + 1;
+						if (randinfection <= infectionprob)
+						{
+							if (!(Es->getimmunity()))
+							{
+								Es->setinfection(true);
+								infectioncount++;
+								Real_infection_count++;
+
+							}
+						}
+						i++;
+						flag1 = true;
+						Am->Attack(Es);
+						if (Es->getTa() == -1)Es->setTa(timeStep);
+						if (Es->getHealth() <= 0)
+						{
+							Es->setTd(timeStep);
+							if (Es->getinfection()) {
+								Real_infection_count--;
+								
+							}
+							addToKilledList(Es);
+						}
+						else if (Es->getHealth() < .2 * Es->getinitialhealth()) {
+							Es->settimeUml(timeStep);
+							Uml1.enqueue(Es, 10000 - Es->getHealth());
+							counterForUML1++;
+						}
+						else
+						{
+							TempList.enqueue(Es);
+						}
+
 						AttackedFromAMforSoilder.enqueue(Es);//List for printing the last attacked ES by AM
+					}
 				}
 				if (i < Am->getAttackCap()) {
 					et = earthArmy.RemoveEarthTank(Et);
@@ -507,7 +609,7 @@ void Game::AttackLogic() {
 					}
 				}
 
-				if (!flag1 && !flag2)
+				if (!flag1 && !flag2&&!flag3)
 					break;
 
 			}
@@ -517,21 +619,14 @@ void Game::AttackLogic() {
 	while (!TempList.isEmpty()) {
 		Unit* unit = nullptr;
 		TempList.dequeue(unit);
-		srand(time(NULL));
-		int randinfection = rand() % 101;
-		if (randinfection <= infectionprob && (unit->getTYPE() == 0))
-		{
-			if (!(unit->getimmunity()))
-			{
-				unit->setinfection(true);
-				infectioncount++;
-			}
-		}
+	
 
 		if (unit->getTYPE() == 0)
 			earthArmy.addEarthSoldier(unit);
-		else
+		else if (unit->getTYPE() == 1)
 			earthArmy.addEarthTank(unit);
+		else
+			alliedarmy.addSU(unit);
 	}
 
 	{
@@ -554,7 +649,7 @@ void Game::AttackLogic() {
 			for (int i = 0; i < capacity; )
 			{
 				bool flag1 = false, flag2 = false;
-				eg = earthArmy.RemoveEarthSoldier(Eg);
+				eg = earthArmy.RemoveEarthGunnery(Eg);
 
 				if (eg) {
 					i++;
@@ -613,14 +708,17 @@ void Game::AttackLogic() {
 	while (!TempList.isEmpty()) {
 		Unit* unit = nullptr;
 		TempList.dequeue(unit);
+
 		if (unit->getTYPE() == 1)
 			earthArmy.addEarthTank(unit);
-		else
+		else 
 			earthArmy.addEarthGunnery(unit);
 	}
 
 	//////////////////////////////////////////////////////////
+	infectionspread();
 
+	/////////////////////////////////////////////////////////////
 
 	HealLogic();                  // to heal the atttacked of Es && Et
 
@@ -628,15 +726,14 @@ void Game::AttackLogic() {
 	//////////////////////////////////////////////////////////
 	char f[] = "Battle_Simulation";
 	if (mode == 1) {
-		CreateOutputFile(f, AttackedFromES, AttackedFromETforMonster, AttackedFromETforSoilder, AttackedFromEGforMonster, AttackedFromEGforDrones
-			, AttackedFromAS, AttackedFromAMforSoilder, AttackedFromAMforTank, AttackedFromADforGunnery, AttackedFromADforTank);
+		CreateOutputFile(f);
 
 		printQueues(AttackedFromES, AttackedFromETforMonster, AttackedFromETforSoilder, AttackedFromEGforMonster, AttackedFromEGforDrones
-			, AttackedFromAS, AttackedFromAMforSoilder, AttackedFromAMforTank, AttackedFromADforGunnery, AttackedFromADforTank);
+			, AttackedFromASforEs, AttackedFromAMforSoilder, AttackedFromAMforTank, AttackedFromADforGunnery, AttackedFromADforTank
+			, AttackedFromSu, AttackedFromAsforSu, AttackedFromAmforSu);
 	}
 	else
-		CreateOutputFile(f, AttackedFromES, AttackedFromETforMonster, AttackedFromETforSoilder, AttackedFromEGforMonster, AttackedFromEGforDrones
-			, AttackedFromAS, AttackedFromAMforSoilder, AttackedFromAMforTank, AttackedFromADforGunnery, AttackedFromADforTank);
+		CreateOutputFile(f);
 
 	
 }
@@ -656,6 +753,8 @@ void Game::HealLogic() {
 					i--;
 					continue;
 				}
+				if (healed->getinfection())
+					Real_infection_count--;
 				healunit->Attack(healed);
 				num_of_healed++;
 				if (healed->getHealth() > .2 * healed->getinitialhealth()) {
@@ -689,6 +788,8 @@ void Game::HealLogic() {
 			else
 				break;
 		}
+	delete healunit;
+	healunit = nullptr;
 	Unit* deleter = nullptr;
 	while (TempListfortank.dequeue(deleter)) {
 		Uml2.enqueue(deleter);
@@ -704,7 +805,8 @@ void Game::HealLogic() {
 
 void Game::printQueues(LinkedQueue<Unit*>AfromEs, LinkedQueue<Unit*>AfromEtforAm, LinkedQueue<Unit*>AfromEtforAs, LinkedQueue<Unit*>AfromEgforAm,
 	LinkedQueue<Unit*>AfromEgforAd, LinkedQueue<Unit*>AfromAs, LinkedQueue<Unit*>AfromAmforEs, LinkedQueue<Unit*>AfromAmforEt
-	, LinkedQueue<Unit*>AfromAdforEg, LinkedQueue<Unit*>AfromAdforEt){
+	, LinkedQueue<Unit*>AfromAdforEg, LinkedQueue<Unit*>AfromAdforEt,  LinkedQueue<Unit*>AfromSu,  LinkedQueue<Unit*>AfromAsforSu
+	, LinkedQueue<Unit*>AfromAmforSu){
 
 	
 	cout << "Current Timestep " << timeStep << endl;//cout current time Step
@@ -717,16 +819,35 @@ void Game::printQueues(LinkedQueue<Unit*>AfromEs, LinkedQueue<Unit*>AfromEtforAm
 	alienArmy.printAlienSoldiers();
 	alienArmy.printAlienDrones();
 	alienArmy.printAlienMonsters();
+	cout << endl;
+	cout << "================= Allied Army Alive Units ===============" << endl;
+	alliedarmy.printSU();
+	cout << endl;
 	
 	cout << endl<<"==================== HealList ====================="<<endl;
 	earthArmy.printHealUnits();
 	cout <<endl;
 
-	cout << endl << "====================== Unit Maintenance List ===============" << endl;
+	cout << "====================== Unit Maintenance List ===============" << endl;
 	printUML();
+	cout << endl;
+	cout  << "================ infection percentage ====================" << endl;
+	int earthSunits = earthArmy.getEScount() + counterForUML1+killedcountEs;
+	if (earthSunits != 0)
+		cout << ((double)Real_infection_count / earthSunits)*100 << " %" << endl;
+	else
+		cout << "Not defined" << endl;
 	cout << endl;
 
 	cout << "===================== Units fighting at current step ===============" << endl;
+	//Attacked from sever units
+	Unit* Su = nullptr, * Als = nullptr;
+	if (AfromSu.dequeue(Su)) {
+		cout << "SU " << Su->getID() << " shots ";
+		cout << "[";
+		AfromSu.print_the_list();
+		cout << "]"<<endl;
+	}
 //Attacked from earth soilder
 	Unit* Es = nullptr, * Et = nullptr, * Eg = nullptr, * As = nullptr, * Am = nullptr,*Ad1=nullptr,*Ad2=nullptr;
 	if (AfromEs.dequeue(Es)) {
@@ -758,6 +879,8 @@ void Game::printQueues(LinkedQueue<Unit*>AfromEs, LinkedQueue<Unit*>AfromEtforAm
 		cout << "AS " << As->getID() << " shots ";
 		cout << "[";
 		AfromAs.print_the_list();
+		cout << "]&&[";
+		AfromAsforSu.print_the_list();
 		cout << "]" << endl;
 	}
 	//Attacked from alien monster
@@ -767,6 +890,8 @@ void Game::printQueues(LinkedQueue<Unit*>AfromEs, LinkedQueue<Unit*>AfromEtforAm
 		AfromAmforEs.print_the_list();
 		cout << "] && [";
 		AfromAmforEt.print_the_list();
+		cout << "]&&[";
+		AfromAmforSu.print_the_list();
 		cout << "]" << endl;
 	}
 	//Attacked from alien drones
@@ -792,9 +917,7 @@ void Game::printUML() {
 	cout << "]" << endl;
 }
 
-void Game::CreateOutputFile(char filename[], LinkedQueue<Unit*>AfromEs, LinkedQueue<Unit*>AfromEtforAm, LinkedQueue<Unit*>AfromEtforAs, LinkedQueue<Unit*>AfromEgforAm,
-	LinkedQueue<Unit*>AfromEgforAd, LinkedQueue<Unit*>AfromAs, LinkedQueue<Unit*>AfromAmforEs, LinkedQueue<Unit*>AfromAmforEt
-	, LinkedQueue<Unit*>AfromAdforEg, LinkedQueue<Unit*>AfromAdforEt) {
+void Game::CreateOutputFile(char filename[]) {
 	char filePath[100];
 	ofstream file;
 	int count = 0;
@@ -961,6 +1084,14 @@ void Game::CreateOutputFile(char filename[], LinkedQueue<Unit*>AfromEs, LinkedQu
 	}
 	else
 		file << "Healed_successfully/Total_Earth = " << "Not defined" << endl << endl;
+
+
+	int earthSunits = earthArmy.getEScount() + counterForUML1 ;
+	if (earthSunits != 0)
+		file <<"Infected/Total_Es = " << ((double)infectioncount / earthSunits) * 100 << " %" << endl;
+	else
+		file << "Infected/Total_Es = " << "Not defined" << endl;
+file<< endl;
 	//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
@@ -1032,29 +1163,62 @@ void Game::CreateOutputFile(char filename[], LinkedQueue<Unit*>AfromEs, LinkedQu
 	}
 	file.close();
 }
+
+
 void Game::infectionspread()
 {
-	Unit* temp;
-	LinkedQueue <Unit*> q;
+	
+	Unit* temp=nullptr, *xx;
+	LinkedQueue <Unit*> q,collect;
 	while (earthArmy.RemoveEarthSoldier(temp))
 	{
 		srand(time(NULL));
-		int prob = rand() % 101;
+		int prob = rand() % 100+1;
 
 
 		if (temp->getinfection() && prob <= 2)
 		{
 			q.enqueue(temp);
-			while (earthArmy.RemoveEarthSoldier(temp))
-			{
-				if (temp->getinfection())
-				{
-					q.enqueue(temp);
-					continue;
 
+			
+			while(true){
+
+				temp = nullptr;
+
+				int randoms;
+				if (earthArmy.getEScount() != 0)
+					randoms = rand() % earthArmy.getEScount() + 1;
+				else {
+					break;
 				}
+
+			
+
+			while (earthArmy.RemoveEarthSoldier(temp)) 
+				collect.enqueue(temp);
+
+			while (randoms--) {
+				collect.dequeue(temp);
+				if(randoms!=0)
+				earthArmy.addEarthSoldier(temp);
+			}
+
+			while (collect.dequeue(xx))
+				earthArmy.addEarthSoldier(xx);
+
+
+
+			
+			
+				if (temp->getinfection())
+				
+					q.enqueue(temp);
+				
+
 				else
 				{
+
+
 					if (!(temp->getimmunity()))
 					{
 						temp->setinfection(true);
@@ -1063,11 +1227,11 @@ void Game::infectionspread()
 						break;
 					}
 					else
-					{
+					
 						q.enqueue(temp);
-						continue;
-					}
+				
 				}
+	
 			}
 		}
 		else
@@ -1082,24 +1246,40 @@ void Game::infectionspread()
 
 	}
 }
+
 bool Game::needSU()
 {
-	int countES=0;
-	int countinfected=0;
-	Unit* temp;
-	LinkedQueue <Unit*> q;
-	while (earthArmy.RemoveEarthSoldier(temp))
-	{
-		countES++;
-		if (temp->getinfection()) countinfected++;
-		q.enqueue(temp);
-	}
-	while (q.dequeue(temp))
-	{
-		earthArmy.addEarthSoldier(temp);
-	}
-	double percentageofinfected = (double(countinfected) / countES) * 100.0;
-	if (percentageofinfected >= infectionthreshold) return true;
+	Unit* unit = nullptr;
+	if(Real_infection_count==0)
+		while(alliedarmy.RemoveSU(unit))
+		{
+			delete unit;
+		}
+
+	int earthSunits = earthArmy.getEScount() + counterForUML1 + killedcountEs;
+	double percentageofinfected;
+	if (earthSunits != 0)
+		percentageofinfected = (double(Real_infection_count) / earthSunits) * 100.0;
+	else
+		percentageofinfected = 0;
+
+
+	if (percentageofinfected >= infectionthreshold)
+		return true;
 	else return false;
 
+}
+
+Game::~Game() {
+	Unit* Delete = nullptr;
+	while (KilledList.dequeue(Delete)) {
+		delete Delete;
+	}
+	killedcountEs = killedcountEt = killedcountEg = killedcountAs = killedcountAm = killedcountAd = 0;
+	int f = 0;
+	while (Uml1.dequeue(Delete,f))
+		delete Delete;
+	while (Uml2.dequeue(Delete))
+		delete Delete;
+	counterForUML1 = counterForUML2 = 0;
 }

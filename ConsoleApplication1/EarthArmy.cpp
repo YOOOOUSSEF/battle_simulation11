@@ -181,10 +181,15 @@ EarthArmy::~EarthArmy()
 		EarthTanks.pop(Delete);
 		delete Delete;
 	}
+	while (!HealList.isEmpty()) {
+		HealList.pop(Delete);
+			delete Delete;
+	}
 
 	id = 1;
 	EScount = 0;
 	EGcount = 0;
 	ETcount = 0;
+	HUcount = 0;
 }
 

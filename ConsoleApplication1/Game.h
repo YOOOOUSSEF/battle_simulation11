@@ -28,13 +28,13 @@ private:
 	
 	priQueue<Unit*>Uml1; //for earth soilder
 	LinkedQueue<Unit*>Uml2; //for earth tank
-	int killedCount,timeStep, num_of_healed;;
+	int killedCount,timeStep, num_of_healed;
 	int killedcountEs, killedcountEt, killedcountEg, killedcountAs, killedcountAm, killedcountAd;
 	int counterForUML1, counterForUML2;
 	int mode;
 	char fileName[100];
 	int infectionprob;
-	int infectioncount;
+	int infectioncount,Real_infection_count;
 public:
 	Game();
 	void AttackLogic();
@@ -43,12 +43,13 @@ public:
 	void addToKilledList(Unit* killed);
 	void PrintKilledList() const; 
 	void printQueues(LinkedQueue<Unit*>, LinkedQueue<Unit*>, LinkedQueue<Unit*>, LinkedQueue<Unit*>, LinkedQueue<Unit*>
-	, LinkedQueue<Unit*>, LinkedQueue<Unit*>, LinkedQueue<Unit*>, LinkedQueue<Unit*>, LinkedQueue<Unit*>);
+	, LinkedQueue<Unit*>, LinkedQueue<Unit*>, LinkedQueue<Unit*>, LinkedQueue<Unit*>, LinkedQueue<Unit*>, LinkedQueue<Unit*>
+		, LinkedQueue<Unit*>, LinkedQueue<Unit*>);
 	void printUML();
 	
-	void CreateOutputFile(char filename[],LinkedQueue<Unit*>, LinkedQueue<Unit*>, LinkedQueue<Unit*>, LinkedQueue<Unit*>, LinkedQueue<Unit*>
-		, LinkedQueue<Unit*>, LinkedQueue<Unit*>, LinkedQueue<Unit*>, LinkedQueue<Unit*>, LinkedQueue<Unit*>);
+	void CreateOutputFile(char filename[]);
 	void infectionspread();
 	bool needSU();
+	~Game();
 };
 

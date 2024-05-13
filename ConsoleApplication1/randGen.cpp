@@ -58,7 +58,7 @@ Unit* randGen::GenEarthUnit(int ESpercent, int ETpercent, int EGpercent,int HUpe
 	else if(B<= ESpercent + ETpercent+EGpercent)
 	{
 		RandUnit = new Gunnery();//generate a new earth Gunnery
-		RandUnit->settype(1);//set its type to ET
+		RandUnit->settype(2);//set its type to ET
 		//then generating random power , health and ATCapcity//
 		int tempPower = getRandBetween(smallPower, highPower);
 		RandUnit->setPower(tempPower);
