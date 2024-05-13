@@ -91,7 +91,7 @@ void Game::LoadFromFile(char filename[]) {
 	}
 	file >> N >> ES >> ET >> EG >>HU>> AS >> AM >> AD >> Prob;//assigning the loading parameters for generation of units
 	file >> SmallPowerE >> HighPowerE >> SmallHealthE >>  HighHealthE >> SmallAttackCapE >> HighAttackCapE;//high a low value limits of every type units
-	file >> SmallPowerA >> HighPowerA >> SmallHealthA >> HighHealthA >> SmallAttackCapA >> HighAttackCapA;
+	file >> SmallPowerA >> HighPowerA >> SmallHealthA >> HighHealthA >> SmallAttackCapA >> HighAttackCapA >> infectionprob;
 	HighPowerE = -HighPowerE;//removing the minus sign of the high value
 	HighPowerA = -HighPowerA;
 	HighHealthE = -HighHealthE;
@@ -472,6 +472,14 @@ void Game::AttackLogic() {
 	while (!TempList.isEmpty()) {
 		Unit* unit = nullptr;
 		TempList.dequeue(unit);
+		srand(time(NULL));
+		int randinfection = rand() % 101;
+		if (randinfection <= infectionprob && (unit->getTYPE() == 0))
+		{
+			unit->setinfection(true);
+			infectioncount++;
+		}
+
 		if (unit->getTYPE() == 0)
 			earthArmy.addEarthSoldier(unit);
 		else
@@ -975,4 +983,46 @@ void Game::CreateOutputFile(char filename[], LinkedQueue<Unit*>AfromEs, LinkedQu
 		file << "Dd/Db = " << "Not defined" << endl << endl;
 	}
 	file.close();
+}
+void Game::infectionspread()
+{
+	Unit* temp;
+	LinkedQueue <Unit*> q;
+	while (earthArmy.RemoveEarthSoldier(temp))
+	{
+		srand(time(NULL));
+		int prob = rand() % 101;
+
+
+		if (temp->getinfection() && prob <= 2)
+		{
+			q.enqueue(temp);
+			while (earthArmy.RemoveEarthSoldier(temp))
+			{
+				if (temp->getinfection())
+				{
+					q.enqueue(temp);
+					continue;
+
+				}
+				else
+				{
+					temp->setinfection(true);
+					q.enqueue(temp);
+					infectioncount++;
+					break;
+				}
+			}
+		}
+		else
+		{
+			q.enqueue(temp);
+		}
+
+	}
+	while (q.dequeue(temp))
+	{
+		earthArmy.addEarthSoldier(temp);
+
+	}
 }

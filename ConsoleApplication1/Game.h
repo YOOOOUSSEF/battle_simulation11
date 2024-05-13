@@ -27,6 +27,8 @@ private:
 	int counterForUML1, counterForUML2;
 	int mode;
 	char fileName[100];
+	int infectionprob;
+	int infectioncount;
 public:
 	Game();
 	void AttackLogic();
@@ -40,5 +42,6 @@ public:
 	
 	void CreateOutputFile(char filename[],LinkedQueue<Unit*>, LinkedQueue<Unit*>, LinkedQueue<Unit*>, LinkedQueue<Unit*>, LinkedQueue<Unit*>
 		, LinkedQueue<Unit*>, LinkedQueue<Unit*>, LinkedQueue<Unit*>, LinkedQueue<Unit*>, LinkedQueue<Unit*>);
+	void infectionspread();
 };
 
