@@ -1,109 +1,160 @@
 Td  ID  Tj  Df  Dd  Db
-1   2009 1   0   0   0   
+0   15  0   0   0   0   
 
 Td  ID  Tj  Df  Dd  Db
-1   2011 1   0   0   0   
+0   13  0   0   0   0   
 
 Td  ID  Tj  Df  Dd  Db
-1   2010 1   0   0   0   
+1   2008 0   0   1   1   
 
 Td  ID  Tj  Df  Dd  Db
-2   2007 1   0   1   1   
+1   2015 0   0   1   1   
 
 Td  ID  Tj  Df  Dd  Db
-2   2012 1   0   1   1   
+1   2005 0   0   1   1   
 
 Td  ID  Tj  Df  Dd  Db
-2   2013 1   0   1   1   
+1   2004 0   0   1   1   
 
 Td  ID  Tj  Df  Dd  Db
-2   2001 1   0   1   1   
+1   2000 0   0   1   1   
 
 Td  ID  Tj  Df  Dd  Db
-2   2006 1   0   1   1   
+1   2006 0   0   1   1   
 
 Td  ID  Tj  Df  Dd  Db
-2   2015 1   0   1   1   
+2   2007 0   0   2   2   
 
 Td  ID  Tj  Df  Dd  Db
-2   2000 1   0   1   1   
+2   2013 0   0   2   2   
 
 Td  ID  Tj  Df  Dd  Db
-2   2008 1   1   0   1   
+2   2014 0   0   2   2   
 
 Td  ID  Tj  Df  Dd  Db
-2   2005 1   0   1   1   
+2   2002 0   1   1   2   
 
 Td  ID  Tj  Df  Dd  Db
-2   2014 1   0   1   1   
+2   2012 0   0   2   2   
 
 Td  ID  Tj  Df  Dd  Db
-2   2003 1   0   1   1   
+2   2011 0   0   2   2   
 
 Td  ID  Tj  Df  Dd  Db
-3   2002 1   0   2   2   
+2   2009 0   0   2   2   
 
 Td  ID  Tj  Df  Dd  Db
-3   2004 1   1   1   2   
+3   2010 0   1   2   3   
 
 Td  ID  Tj  Df  Dd  Db
-5   18  1   0   4   4   
+3   2001 0   1   2   3   
 
 Td  ID  Tj  Df  Dd  Db
-6   2029 5   0   1   1   
+3   2003 0   1   2   3   
 
 Td  ID  Tj  Df  Dd  Db
-6   2023 5   0   1   1   
+5   2028 5   0   0   0   
 
 Td  ID  Tj  Df  Dd  Db
-6   2016 5   0   1   1   
+5   2021 5   0   0   0   
 
 Td  ID  Tj  Df  Dd  Db
-6   2021 5   0   1   1   
+5   2031 5   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+5   2026 5   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+5   2016 5   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+5   2029 5   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+5   2027 5   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+5   2019 5   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+6   2018 5   0   1   1   
+
+Td  ID  Tj  Df  Dd  Db
+6   2022 5   0   1   1   
 
 Td  ID  Tj  Df  Dd  Db
 6   2025 5   0   1   1   
 
 Td  ID  Tj  Df  Dd  Db
-6   2028 5   0   1   1   
+6   2017 5   0   1   1   
+
+Td  ID  Tj  Df  Dd  Db
+6   2024 5   0   1   1   
+
+Td  ID  Tj  Df  Dd  Db
+6   2023 5   0   1   1   
+
+Td  ID  Tj  Df  Dd  Db
+6   2020 5   0   1   1   
+
+Td  ID  Tj  Df  Dd  Db
+6   2034 6   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+6   2046 6   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+6   2033 6   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+6   2047 6   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+6   2039 6   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+6   2036 6   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+6   2030 5   0   1   1   
 
 ================= Earth Army =================
 Battle Result:  Drawn
 
-Total_Es = 20
-Total_Et = 41
-Total_Eg = 0
+Total_Es = 12
+Total_Et = 44
+Total_Eg = 6
 
-Es_Destructed/Es_Total = 5%
-Et_Destructed/Et_Total = 0%
-Eg_Destructed/Eg_Total = Not defined
-Total_Destructed/Total_Units = 1.63934%
+Es_Destructed/Es_Total = 8.33333%
+Et_Destructed/Et_Total = 2.27273%
+Eg_Destructed/Eg_Total = 0%
+Total_Destructed/Total_Units = 3.22581%
 
 Average_of_DF = 0
-Average_of_Dd = 4
-Average_of_Db = 4
+Average_of_Dd = 0
+Average_of_Db = 0
 
-Df/Db = 0%
-Dd/Db = 1%
+Df/Db = Not defined
+Dd/Db = Not defined
 
-Healed_successfully/Total_Earth = 0%
+Healed_successfully/Total_Earth = 0.016129%
 
 ============== Alien Army ============
 Battle Result:  Drawn
 
-Total_AS = 14
-Total_AM = 17
-Total_AD = 1
+Total_AS = 12
+Total_AM = 24
+Total_AD = 12
 
-As_Destructed/As_Total = 50%
-Am_Destructed/Am_Total = 88.2353%
-Ad_Destructed/Ad_Total = 0%
-Total_Destructed/Total_Units = 68.75%
+As_Destructed/As_Total = 75%
+Am_Destructed/Am_Total = 75%
+Ad_Destructed/Ad_Total = 91.6667%
+Total_Destructed/Total_Units = 79.1667%
 
-Average_of_DF = 0.0909091
-Average_of_Dd = 0.863636
-Average_of_Db = 0.954545
+Average_of_DF = 0.105263
+Average_of_Dd = 0.868421
+Average_of_Db = 0.973684
 
-Df/Db = 0.0952381%
-Dd/Db = 0.904762%
+Df/Db = 0.108108%
+Dd/Db = 0.891892%
 
