@@ -25,7 +25,7 @@ Game::Game()
 	cout << "enter any Number except -1 to start " << endl;
 	cin >> input;
 	srand(time(NULL));
-	while (input!=-1||timeStep!=50)
+	while (input!=-1 && timeStep!=50)
 	{
 		if(R.GenerateA(Prob))//generate randomA from randGen
 			for (int i = 0; i < N; i++) 
