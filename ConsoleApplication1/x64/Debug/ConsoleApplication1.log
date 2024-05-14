@@ -1,20 +1,15 @@
-﻿  EarthArmy.cpp
+﻿  AlliedArmy.cpp
+C:\battle_simulation_4\ConsoleApplication1\AlliedArmy.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  main.cpp
 C:\battle_simulation_4\ConsoleApplication1\EarthArmy.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\battle_simulation_4\ConsoleApplication1\priQueue.h(55,24): error C2660: 'priNode<T>::getItem': function does not take 0 arguments
-          with
-          [
-              T=Unit *
-          ]
-C:\battle_simulation_4\ConsoleApplication1\priNode.h(25,4): message : see declaration of 'priNode<T>::getItem'
-          with
-          [
-              T=Unit *
-          ]
-C:\battle_simulation_4\ConsoleApplication1\priQueue.h(55,24): message : while trying to match the argument list '()'
-C:\battle_simulation_4\ConsoleApplication1\priQueue.h(51,10): message : while compiling class template member function 'bool priQueue<Unit *>::peek(T &,int &)'
-          with
-          [
-              T=Unit *
-          ]
-C:\battle_simulation_4\ConsoleApplication1\EarthArmy.cpp(117,20): message : see the first reference to 'priQueue<Unit *>::peek' in 'EarthArmy::PeekEarthGunnery'
-C:\battle_simulation_4\ConsoleApplication1\EarthArmy.h(10,18): message : see reference to class template instantiation 'priQueue<Unit *>' being compiled
+C:\battle_simulation_4\ConsoleApplication1\AlliedArmy.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  EarthArmy.cpp
+C:\battle_simulation_4\ConsoleApplication1\EarthArmy.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Game.cpp
+C:\battle_simulation_4\ConsoleApplication1\EarthArmy.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\battle_simulation_4\ConsoleApplication1\AlliedArmy.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\battle_simulation_4\ConsoleApplication1\Game.cpp(30,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\battle_simulation_4\ConsoleApplication1\Game.cpp(546,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\battle_simulation_4\ConsoleApplication1\Game.cpp(1171,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  ConsoleApplication1.vcxproj -> C:\battle_simulation_4\x64\Debug\ConsoleApplication1.exe
