@@ -26,6 +26,15 @@ bool AlliedArmy::RemoveSU(Unit*& Soldier)
 	SUcount--;
 	return true;
 }
+bool AlliedArmy::PeekSu(Unit*& Soldier) {
+	if (SUcount == 0)
+	{
+		Soldier = NULL;
+		return false;
+	}
+	SU.peek(Soldier);//peeking the Soldiers 
+	return true;
+}
 void AlliedArmy::printSU()
 {
 	cout << SUcount << " SU [";

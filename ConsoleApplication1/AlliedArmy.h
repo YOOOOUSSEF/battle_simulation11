@@ -14,6 +14,7 @@ public:
 	bool RemoveSU(Unit*& EarthSoldier);
 	void printSU();
 	int  getSUcount();
+	bool PeekSu(Unit*&);
 	~AlliedArmy();
 };
 

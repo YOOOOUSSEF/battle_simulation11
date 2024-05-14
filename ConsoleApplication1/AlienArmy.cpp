@@ -116,6 +116,49 @@ bool AlienArmy::RemoveAlienMonster(Unit*& Monster)
 	}
 	return true;
 }
+bool AlienArmy::PeekAlienSoldier(Unit*& Soldier) {
+	if (AScount == 0)
+	{
+		Soldier = NULL;
+		return 0;
+	}
+	else {
+		AlienSoldiers.peek(Soldier);
+		return true;
+	}
+}
+bool AlienArmy::PeekAlienDroneFirst(Unit*& Drone) {
+	if (ADcount == 0)
+	{
+		Drone = NULL;
+		return false;
+	}
+	AlienDrones.peek(Drone);
+	return true;
+}
+bool AlienArmy::PeekAlienDroneLast(Unit*& Drone) {
+	if (ADcount == 0)
+	{
+		Drone = NULL;
+		return false;
+	}
+	AlienDrones.peeklast(Drone);
+	return true;
+}
+bool AlienArmy::PeekAlienMonster(Unit*& Monster) {
+	if (AMcount == 0)
+	{
+		Monster = NULL;
+		return false;
+	}
+	else//notice:we get a radom Monster
+	{
+		int randomIndex = rand() % (AMcount);//we will get a random index to get a random monster
+		//range of the random Index is from 0 to currentSize - 1
+		Monster = AlienMonsters[randomIndex];
+	}
+	return true;
+}
 
 void AlienArmy::printAlienSoldiers()
 {

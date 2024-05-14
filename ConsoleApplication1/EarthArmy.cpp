@@ -94,8 +94,45 @@ bool EarthArmy::RemoveHealUnit(Unit*& HealUnit) {
 		HealUnit = nullptr;
 		return false;
 	}
-	HealList.pop(HealUnit);
+	HealList.pop(HealUnit);//dequeueing the  heal unit
 	HUcount--;
+	return true;
+}
+bool EarthArmy::PeekEarthSoldier(Unit*& EarthSoldier) {
+	if (EScount == 0)
+	{
+		EarthSoldier = NULL;
+		return false;
+	}
+	EarthSoldiers.peek(EarthSoldier);//Peeking the earthSoldiers 
+	return true;
+}
+bool EarthArmy::PeekEarthGunnery(Unit*& EarthGunnery) {
+	if (EGcount == 0)
+	{
+		EarthGunnery = NULL;
+		return false;
+	}
+	int x = 0;
+	EarthGunnerys.peek(EarthGunnery, x);//peeking the earthGunnerys
+	return true;
+}
+bool EarthArmy::PeekEarthTank(Unit*& EarthTank) {
+	if (EarthTanks.isEmpty())
+	{
+		EarthTank = NULL;
+		return false;
+	}
+
+	EarthTanks.peek(EarthTank);//peeking the earthTanks
+	return true;
+}
+bool EarthArmy::PeekHealUnit(Unit*& HealUnit) {
+	if (HealList.isEmpty()) {
+		HealUnit = nullptr;
+		return false;
+	}
+	HealList.peek(HealUnit);//peeking the HealUnit
 	return true;
 }
 

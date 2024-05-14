@@ -172,7 +172,7 @@ void Game::AttackLogic() {
 	bool su;
 	bool als;
 
-	su = alliedarmy.RemoveSU(Su);
+	su = alliedarmy.PeekSu(Su);
 	if (su) {
 		AttackedFromSu.enqueue(Su);
 		for (int i = 0; i < Su->getAttackCap(); i++) {
@@ -190,7 +190,6 @@ void Game::AttackLogic() {
 				AttackedFromSu.enqueue(Als);
 			}
 		}
-		alliedarmy.addSU(Su);
 	}
 	while (!TempList.isEmpty()) {
 		Unit* unit = nullptr;
@@ -200,7 +199,7 @@ void Game::AttackLogic() {
 
 	Unit* Es = nullptr, * As = nullptr;
 	bool as = true, es = true;
-	es = earthArmy.RemoveEarthSoldier(Es);
+	es = earthArmy.PeekEarthSoldier(Es);
 	if(es)
 	{
 		if (!(Es->getinfection())) {
@@ -223,7 +222,7 @@ void Game::AttackLogic() {
 
 				}
 			}
-			earthArmy.addEarthSoldier(Es);
+
 		}
 		else
 		{
@@ -253,7 +252,7 @@ void Game::AttackLogic() {
 
 					}
 				}
-				earthArmy.addEarthSoldier(Es);
+			
 			}
 		}
 	}
@@ -269,7 +268,7 @@ void Game::AttackLogic() {
 	Unit* Et = nullptr, * Am = nullptr;
 	As = nullptr;
 	bool et = true, am = true;
-	et = earthArmy.RemoveEarthTank(Et);
+	et = earthArmy.PeekEarthTank(Et);
 	if (et) {
 		
 		AttackedFromETforMonster.enqueue(Et);//the Attacker unit
@@ -341,7 +340,7 @@ void Game::AttackLogic() {
 			if (!flag3)
 				break;
 		}
-		earthArmy.addEarthTank(Et);
+	
 	}
 	while (!TempList.isEmpty()) {
 		Unit* unit = nullptr;
@@ -356,7 +355,7 @@ void Game::AttackLogic() {
 	Am = nullptr;
 	bool eg = true, adf = true, adl = true;
 	am = true;
-	eg = earthArmy.RemoveEarthGunnery(Eg);
+	eg = earthArmy.PeekEarthGunnery(Eg);
 	if (eg) {
 		
 		AttackedFromEGforMonster.enqueue(Eg);//the Attacker unit
@@ -424,7 +423,6 @@ void Game::AttackLogic() {
 				break;
 
 		}
-		earthArmy.addEarthGunnery(Eg);
 	}
 	int j = 0;
 	while (!TempList.isEmpty()) {
@@ -445,7 +443,7 @@ void Game::AttackLogic() {
 		Unit* Su = nullptr; bool su;
 		Unit* Es = nullptr, * As = nullptr;
 		bool as = true, es = true;
-		as = alienArmy.RemoveAlienSoldier(As);
+		as = alienArmy.PeekAlienSoldier(As);
 		if (as)
 		{
 			
@@ -501,7 +499,7 @@ void Game::AttackLogic() {
 				if (!flag1 && !flag2)
 					break;
 			}
-			alienArmy.addAlienSoldier(As);
+		
 		}
 	}
 	while (!TempList.isEmpty()) {
@@ -518,7 +516,7 @@ void Game::AttackLogic() {
 		Unit* Am = nullptr, * Es = nullptr, * Et = nullptr;
 		bool am = false, es = false, et = false;
 
-		am = alienArmy.RemoveAlienMonster(Am);
+		am = alienArmy.PeekAlienMonster(Am);
 		if (am)
 		{
 			
@@ -613,7 +611,7 @@ void Game::AttackLogic() {
 					break;
 
 			}
-			alienArmy.addAlienMonster(Am);
+			
 		}
 	}
 	while (!TempList.isEmpty()) {
@@ -635,8 +633,8 @@ void Game::AttackLogic() {
 		Unit* Ad1 = nullptr, * Ad2 = nullptr, * Eg = nullptr, * Et = nullptr;
 		bool ad1 = true, ad2 = true, eg = true, et = true;
 
-		ad1 = alienArmy.RemoveAlienDroneFirst(Ad1);
-		ad2 = alienArmy.RemoveAlienDroneLast(Ad2);
+		ad1 = alienArmy.PeekAlienDroneFirst(Ad1);
+		ad2 = alienArmy.PeekAlienDroneLast(Ad2);
 		if (ad1 && ad2)
 		{
 			
@@ -699,11 +697,9 @@ void Game::AttackLogic() {
 					break;
 
 			}
-			alienArmy.addAlienDroneFirst(Ad1);
-			alienArmy.addAlienDrone(Ad2);
+		
 		}
-		else if(ad1)
-			alienArmy.addAlienDroneFirst(Ad1);
+
 	}
 	while (!TempList.isEmpty()) {
 		Unit* unit = nullptr;

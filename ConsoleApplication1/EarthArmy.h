@@ -26,6 +26,10 @@ public:
 	bool RemoveEarthGunnery(Unit*& EarthGunnery);
 	bool RemoveEarthTank(Unit*& EarthTank);
 	bool RemoveHealUnit(Unit*& HealUnit);
+	bool PeekEarthSoldier(Unit*& EarthSoldier);
+	bool PeekEarthGunnery(Unit*& EarthGunnery);
+	bool PeekEarthTank(Unit*& EarthTank);
+	bool PeekHealUnit(Unit*& HealUnit);
 	void printEarthSoldiers();
 	void printEarthTanks();
 	void printEarthGunnerys();

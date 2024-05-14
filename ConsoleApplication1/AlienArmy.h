@@ -24,6 +24,10 @@ public:
 	bool RemoveAlienDroneFirst(Unit*& Drone);
 	bool RemoveAlienDroneLast(Unit*& Drone);
 	bool RemoveAlienMonster(Unit*& Monster);
+	bool PeekAlienSoldier(Unit*& Soldier);
+	bool PeekAlienDroneFirst(Unit*& Drone);
+	bool PeekAlienDroneLast(Unit*& Drone);
+	bool PeekAlienMonster(Unit*& Monster);
 	void printAlienSoldiers();
 	void printAlienDrones();
 	void printAlienMonsters();

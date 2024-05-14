@@ -15,6 +15,7 @@ public:
 	bool enqueue(const T& newEntry);
 	bool dequeue(T& frntEntry);
 	bool peek(T& frntEntry)  const;
+	bool peeklast(T& backEntry)  const;
 	bool enqueuefirst(const T& newEntry);
 	bool dequeuelast(T& backEntry);
 	void print()const;
@@ -107,6 +108,15 @@ bool DoubleLinkedQueue<T>::peek(T& frntEntry)  const {
 		return false;
 
 	frntEntry = frontptr->getItem();
+	return true;
+
+}
+template<typename T>
+bool DoubleLinkedQueue<T>::peeklast(T& backEntry)  const {
+	if (isEmpty())
+		return false;
+
+	backEntry = backptr->getItem();
 	return true;
 
 }

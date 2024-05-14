@@ -1,30 +1,66 @@
 Td  ID  Tj  Df  Dd  Db
-0   2011 0   0   0   0   
+0   2015 0   0   0   0   
 
 Td  ID  Tj  Df  Dd  Db
 0   2008 0   0   0   0   
 
 Td  ID  Tj  Df  Dd  Db
+0   2007 0   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+0   2005 0   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+0   2002 0   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
 0   2006 0   0   0   0   
-
-Td  ID  Tj  Df  Dd  Db
-0   2012 0   0   0   0   
-
-Td  ID  Tj  Df  Dd  Db
-0   2003 0   0   0   0   
 
 Td  ID  Tj  Df  Dd  Db
 0   2004 0   0   0   0   
 
 Td  ID  Tj  Df  Dd  Db
-0   2010 0   0   0   0   
+0   2012 0   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+1   2001 0   0   1   1   
+
+Td  ID  Tj  Df  Dd  Db
+1   2003 0   0   1   1   
+
+Td  ID  Tj  Df  Dd  Db
+1   2009 0   0   1   1   
+
+Td  ID  Tj  Df  Dd  Db
+1   2011 0   0   1   1   
+
+Td  ID  Tj  Df  Dd  Db
+1   2014 0   0   1   1   
+
+Td  ID  Tj  Df  Dd  Db
+1   2000 0   0   1   1   
+
+Td  ID  Tj  Df  Dd  Db
+1   2013 0   0   1   1   
+
+Td  ID  Tj  Df  Dd  Db
+1   2020 1   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+1   2017 1   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+1   2019 1   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+1   2010 0   0   1   1   
 
 ================= Earth Army =================
 Battle Result:  Drawn
 
-Total_Es = 3
-Total_Et = 7
-Total_Eg = 5
+Total_Es = 11
+Total_Et = 12
+Total_Eg = 8
 
 Es_Destructed/Es_Total = 0%
 Et_Destructed/Et_Total = 0%
@@ -40,24 +76,24 @@ Dd/Db = Not defined
 
 Healed_successfully/Total_Earth = 0%
 
-Infected/Total_Es = 66.6667 %
+Infected/Total_Es = 18.1818 %
 
 ============== Alien Army ============
 Battle Result:  Drawn
 
-Total_AS = 8
-Total_AM = 7
-Total_AD = 1
+Total_AS = 14
+Total_AM = 18
+Total_AD = 0
 
-As_Destructed/As_Total = 12.5%
-Am_Destructed/Am_Total = 85.7143%
-Ad_Destructed/Ad_Total = 0%
-Total_Destructed/Total_Units = 43.75%
+As_Destructed/As_Total = 42.8571%
+Am_Destructed/Am_Total = 72.2222%
+Ad_Destructed/Ad_Total = Not defined
+Total_Destructed/Total_Units = 59.375%
 
 Average_of_DF = 0
-Average_of_Dd = 0
-Average_of_Db = 0
+Average_of_Dd = 0.421053
+Average_of_Db = 0.421053
 
-Df/Db = Not defined
-Dd/Db = Not defined
+Df/Db = 0%
+Dd/Db = 1%
 
