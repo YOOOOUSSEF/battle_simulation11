@@ -15,6 +15,10 @@ Unit::Unit(double h, double pw, double AC, int tj) :Health(h), Power(pw), Attack
 
 void Unit::Attack(Unit*&a)
 {
+	if (a->getHealth() > 0) {
+		int damage = (getPower() * getHealth() / 100) / sqrt(a->getHealth());
+		a->setHealth(a->getHealth() - damage);
+	}
 }
 
 

@@ -6,8 +6,4 @@ AlienSoldier::AlienSoldier(double h, double pw, double AC, int tj): Unit(h, pw, 
 	
 }
 
-void AlienSoldier::Attack(Unit*& as)
-{
-	int damage = (getPower() * getHealth() / 100) / sqrt(as->getHealth());
-	as->setHealth(as->getHealth() - damage);
-}
+

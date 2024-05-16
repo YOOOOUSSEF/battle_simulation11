@@ -37,6 +37,6 @@ public:
 	void SetAScount(int x);
 	void SetADcount(int x);
 	void SetAMcount(int x);
-
+	int getId();
 	~AlienArmy();
 };

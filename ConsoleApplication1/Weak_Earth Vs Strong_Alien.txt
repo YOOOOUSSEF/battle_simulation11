@@ -1,0 +1,696 @@
+Td  ID  Tj  Df  Dd  Db
+1   2   1   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+1   6   1   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+1   10  1   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+1   9   1   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+1   3   1   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+1   8   1   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+1   1   1   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+1   5   1   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+2   13  2   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+2   16  2   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+2   20  2   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+2   19  2   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+2   18  2   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+2   17  2   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+2   15  2   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+2   14  2   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+2   12  2   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+2   4   1   1   0   1   
+
+Td  ID  Tj  Df  Dd  Db
+2   11  2   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+2   7   1   1   0   1   
+
+Td  ID  Tj  Df  Dd  Db
+3   22  3   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+3   27  3   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+3   28  3   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+3   30  3   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+3   24  3   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+3   23  3   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+3   21  3   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+3   26  3   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+3   25  3   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+3   29  3   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+4   34  4   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+4   38  4   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+4   40  4   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+4   39  4   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+4   36  4   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+4   35  4   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+4   37  4   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+4   33  4   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+4   31  4   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+7   48  7   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+7   50  7   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+7   49  7   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+7   47  7   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+7   46  7   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+7   44  7   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+7   43  7   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+7   41  7   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+7   42  7   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+7   45  7   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+8   53  8   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+8   58  8   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+8   57  8   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+8   52  8   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+8   51  8   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+8   59  8   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+8   54  8   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+8   60  8   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+8   55  8   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+9   61  9   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+9   70  9   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+9   69  9   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+9   67  9   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+9   66  9   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+9   68  9   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+9   65  9   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+9   56  8   1   0   1   
+
+Td  ID  Tj  Df  Dd  Db
+9   64  9   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+9   63  9   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+10  62  9   1   0   1   
+
+Td  ID  Tj  Df  Dd  Db
+11  72  11  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+11  78  11  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+11  79  11  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+11  77  11  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+11  75  11  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+11  74  11  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+11  73  11  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+11  76  11  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+11  80  11  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+11  71  11  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+12  81  12  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+12  82  12  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+12  86  12  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+12  88  12  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+12  90  12  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+12  87  12  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+12  84  12  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+12  83  12  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+12  89  12  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+12  85  12  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+14  97  14  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+14  98  14  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+14  99  14  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+14  100 14  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+14  96  14  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+14  94  14  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+14  92  14  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+14  93  14  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+14  95  14  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+14  91  14  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+16  103 16  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+16  110 16  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+16  109 16  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+16  108 16  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+16  105 16  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+16  104 16  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+16  101 16  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+16  102 16  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+16  107 16  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+16  106 16  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+17  116 17  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+17  120 17  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+17  119 17  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+17  118 17  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+17  117 17  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+17  115 17  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+17  114 17  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+17  113 17  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+17  112 17  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+17  111 17  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+19  124 19  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+19  126 19  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+19  128 19  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+19  130 19  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+19  129 19  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+19  127 19  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+19  125 19  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+19  123 19  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+19  122 19  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+19  121 19  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+21  132 21  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+21  139 21  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+21  140 21  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+21  138 21  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+21  137 21  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+21  133 21  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+21  136 21  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+21  131 21  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+21  134 21  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+21  135 21  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+24  141 24  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+24  144 24  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+24  147 24  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+24  148 24  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+24  149 24  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+24  150 24  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+24  145 24  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+24  143 24  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+24  142 24  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+27  153 27  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+27  155 27  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+27  158 27  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+27  160 27  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+27  159 27  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+27  152 27  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+27  151 27  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+27  154 27  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+27  156 27  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+27  157 27  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+31  162 31  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+31  164 31  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+31  169 31  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+31  170 31  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+31  168 31  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+31  166 31  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+31  167 31  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+31  163 31  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+31  165 31  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+31  161 31  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+33  171 33  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+33  175 33  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+33  178 33  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+33  180 33  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+33  179 33  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+33  177 33  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+33  176 33  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+33  174 33  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+33  173 33  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+33  172 33  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+34  190 34  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+34  189 34  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+34  188 34  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+34  187 34  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+34  186 34  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+34  185 34  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+34  182 34  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+34  183 34  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+34  184 34  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+34  181 34  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+35  193 35  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+35  194 35  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+35  196 35  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+35  198 35  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+35  199 35  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+35  195 35  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+35  192 35  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+35  197 35  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+35  191 35  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+35  200 35  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+37  205 37  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+37  208 37  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+37  210 37  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+37  209 37  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+37  207 37  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+37  206 37  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+37  204 37  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+37  201 37  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+37  203 37  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+37  202 37  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+38  212 38  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+38  213 38  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+38  219 38  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+38  217 38  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+38  216 38  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+38  214 38  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+38  211 38  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+38  218 38  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+38  215 38  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+38  220 38  0   0   0   
+
+================= Earth Army =================
+Battle Result:  Loss
+
+Total_Es = 60
+Total_Et = 105
+Total_Eg = 53
+
+Es_Destructed/Es_Total = 100%
+Et_Destructed/Et_Total = 100%
+Eg_Destructed/Eg_Total = 100%
+Total_Destructed/Total_Units = 100%
+
+Average_of_DF = 0.0183486
+Average_of_Dd = 0
+Average_of_Db = 0.0183486
+
+Df/Db = 1%
+Dd/Db = 0%
+
+Healed_successfully/Total_Earth = 0%
+
+Infected/Total_Es = 0 %
+
+============== Alien Army ============
+Battle Result:  Win
+
+Total_AS = 25
+Total_AM = 80
+Total_AD = 75
+
+As_Destructed/As_Total = 0%
+Am_Destructed/Am_Total = 0%
+Ad_Destructed/Ad_Total = 0%
+Total_Destructed/Total_Units = 0%
+
+Average_of_DF = Not defined
+Average_of_Dd = Not defined
+Average_of_Db = Not defined
+
+Df/Db = Not defined
+Dd/Db = Not defined
+

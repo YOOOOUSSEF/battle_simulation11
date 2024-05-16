@@ -15,6 +15,7 @@ public:
 	void printSU();
 	int  getSUcount();
 	bool PeekSu(Unit*&);
+	int getId();
 	~AlliedArmy();
 };
 

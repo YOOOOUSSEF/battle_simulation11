@@ -1,0 +1,3117 @@
+Td  ID  Tj  Df  Dd  Db
+1   3   0   1   0   1   
+
+Td  ID  Tj  Df  Dd  Db
+1   8   0   1   0   1   
+
+Td  ID  Tj  Df  Dd  Db
+1   1   0   1   0   1   
+
+Td  ID  Tj  Df  Dd  Db
+1   10  0   1   0   1   
+
+Td  ID  Tj  Df  Dd  Db
+1   6   0   1   0   1   
+
+Td  ID  Tj  Df  Dd  Db
+1   7   0   1   0   1   
+
+Td  ID  Tj  Df  Dd  Db
+2   2   0   2   0   2   
+
+Td  ID  Tj  Df  Dd  Db
+2   4   0   2   0   2   
+
+Td  ID  Tj  Df  Dd  Db
+2   5   0   2   0   2   
+
+Td  ID  Tj  Df  Dd  Db
+3   13  3   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+3   17  3   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+3   14  3   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+4   15  3   0   1   1   
+
+Td  ID  Tj  Df  Dd  Db
+4   16  3   1   0   1   
+
+Td  ID  Tj  Df  Dd  Db
+4   12  3   1   0   1   
+
+Td  ID  Tj  Df  Dd  Db
+4   20  3   1   0   1   
+
+Td  ID  Tj  Df  Dd  Db
+4   19  3   0   1   1   
+
+Td  ID  Tj  Df  Dd  Db
+5   22  5   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+5   21  5   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+5   27  5   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+6   28  5   0   1   1   
+
+Td  ID  Tj  Df  Dd  Db
+6   26  5   1   0   1   
+
+Td  ID  Tj  Df  Dd  Db
+6   18  3   3   0   3   
+
+Td  ID  Tj  Df  Dd  Db
+6   24  5   1   0   1   
+
+Td  ID  Tj  Df  Dd  Db
+6   30  5   1   0   1   
+
+Td  ID  Tj  Df  Dd  Db
+6   23  5   1   0   1   
+
+Td  ID  Tj  Df  Dd  Db
+7   32  7   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+7   31  7   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+7   37  7   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+8   38  7   0   1   1   
+
+Td  ID  Tj  Df  Dd  Db
+8   40  7   1   0   1   
+
+Td  ID  Tj  Df  Dd  Db
+8   35  7   1   0   1   
+
+Td  ID  Tj  Df  Dd  Db
+8   34  7   1   0   1   
+
+Td  ID  Tj  Df  Dd  Db
+8   33  7   1   0   1   
+
+Td  ID  Tj  Df  Dd  Db
+9   42  9   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+9   48  9   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+9   41  9   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+9   47  9   0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+10  49  9   0   1   1   
+
+Td  ID  Tj  Df  Dd  Db
+10  46  9   1   0   1   
+
+Td  ID  Tj  Df  Dd  Db
+10  50  9   1   0   1   
+
+Td  ID  Tj  Df  Dd  Db
+10  44  9   1   0   1   
+
+Td  ID  Tj  Df  Dd  Db
+10  43  9   1   0   1   
+
+Td  ID  Tj  Df  Dd  Db
+10  11  3   7   0   7   
+
+Td  ID  Tj  Df  Dd  Db
+11  51  11  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+11  57  11  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+12  64  12  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+12  56  11  1   0   1   
+
+Td  ID  Tj  Df  Dd  Db
+13  69  12  0   1   1   
+
+Td  ID  Tj  Df  Dd  Db
+13  62  12  1   0   1   
+
+Td  ID  Tj  Df  Dd  Db
+13  70  12  0   1   1   
+
+Td  ID  Tj  Df  Dd  Db
+14  78  14  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+14  72  14  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+15  74  14  0   1   1   
+
+Td  ID  Tj  Df  Dd  Db
+15  77  14  0   1   1   
+
+Td  ID  Tj  Df  Dd  Db
+15  79  14  0   1   1   
+
+Td  ID  Tj  Df  Dd  Db
+15  88  15  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+15  82  15  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+16  98  16  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+16  92  16  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+16  29  5   0   11  11  
+
+Td  ID  Tj  Df  Dd  Db
+17  108 17  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+17  102 17  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+17  25  5   1   11  12  
+
+Td  ID  Tj  Df  Dd  Db
+18  118 18  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+18  113 18  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+18  39  7   0   11  11  
+
+Td  ID  Tj  Df  Dd  Db
+19  94  16  1   2   3   
+
+Td  ID  Tj  Df  Dd  Db
+19  97  16  1   2   3   
+
+Td  ID  Tj  Df  Dd  Db
+19  99  16  1   2   3   
+
+Td  ID  Tj  Df  Dd  Db
+19  128 19  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+19  123 19  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+19  36  7   1   11  12  
+
+Td  ID  Tj  Df  Dd  Db
+20  2059 6   7   7   14  
+
+Td  ID  Tj  Df  Dd  Db
+20  138 20  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+20  133 20  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+21  104 17  1   3   4   
+
+Td  ID  Tj  Df  Dd  Db
+21  107 17  1   3   4   
+
+Td  ID  Tj  Df  Dd  Db
+21  109 17  1   3   4   
+
+Td  ID  Tj  Df  Dd  Db
+21  148 21  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+21  143 21  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+22  158 22  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+22  153 22  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+23  168 23  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+23  163 23  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+24  178 24  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+24  173 24  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+25  2065 7   11  7   18  
+
+Td  ID  Tj  Df  Dd  Db
+25  2066 7   11  7   18  
+
+Td  ID  Tj  Df  Dd  Db
+25  114 18  2   5   7   
+
+Td  ID  Tj  Df  Dd  Db
+25  117 18  2   5   7   
+
+Td  ID  Tj  Df  Dd  Db
+25  188 25  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+25  183 25  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+26  119 18  2   6   8   
+
+Td  ID  Tj  Df  Dd  Db
+26  198 26  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+26  193 26  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+27  208 27  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+27  203 27  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+28  124 19  3   6   9   
+
+Td  ID  Tj  Df  Dd  Db
+28  127 19  3   6   9   
+
+Td  ID  Tj  Df  Dd  Db
+28  218 28  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+28  213 28  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+29  129 19  4   6   10  
+
+Td  ID  Tj  Df  Dd  Db
+29  228 29  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+29  223 29  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+30  52  11  0   19  19  
+
+Td  ID  Tj  Df  Dd  Db
+30  238 30  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+30  233 30  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+31  134 20  4   7   11  
+
+Td  ID  Tj  Df  Dd  Db
+31  137 20  4   7   11  
+
+Td  ID  Tj  Df  Dd  Db
+31  139 20  4   7   11  
+
+Td  ID  Tj  Df  Dd  Db
+31  248 31  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+31  243 31  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+32  2101 11  16  5   21  
+
+Td  ID  Tj  Df  Dd  Db
+32  258 32  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+32  253 32  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+33  58  11  0   22  22  
+
+Td  ID  Tj  Df  Dd  Db
+33  268 33  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+33  262 33  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+34  2055 6   19  9   28  
+
+Td  ID  Tj  Df  Dd  Db
+34  144 21  5   8   13  
+
+Td  ID  Tj  Df  Dd  Db
+34  149 21  6   7   13  
+
+Td  ID  Tj  Df  Dd  Db
+34  278 34  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+34  272 34  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+35  2018 2   2   31  33  
+
+Td  ID  Tj  Df  Dd  Db
+35  154 22  5   8   13  
+
+Td  ID  Tj  Df  Dd  Db
+35  157 22  5   8   13  
+
+Td  ID  Tj  Df  Dd  Db
+35  288 35  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+35  283 35  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+36  298 36  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+36  293 36  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+37  308 37  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+37  303 37  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+38  167 23  6   9   15  
+
+Td  ID  Tj  Df  Dd  Db
+38  169 23  6   9   15  
+
+Td  ID  Tj  Df  Dd  Db
+38  318 38  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+38  313 38  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+39  174 24  6   9   15  
+
+Td  ID  Tj  Df  Dd  Db
+39  63  12  27  0   27  
+
+Td  ID  Tj  Df  Dd  Db
+39  302 37  2   0   2   
+
+Td  ID  Tj  Df  Dd  Db
+40  2097 10  27  3   30  
+
+Td  ID  Tj  Df  Dd  Db
+40  2098 10  26  4   30  
+
+Td  ID  Tj  Df  Dd  Db
+40  177 24  6   10  16  
+
+Td  ID  Tj  Df  Dd  Db
+40  179 24  6   10  16  
+
+Td  ID  Tj  Df  Dd  Db
+40  66  12  28  0   28  
+
+Td  ID  Tj  Df  Dd  Db
+40  292 36  4   0   4   
+
+Td  ID  Tj  Df  Dd  Db
+41  187 25  7   9   16  
+
+Td  ID  Tj  Df  Dd  Db
+41  189 25  7   9   16  
+
+Td  ID  Tj  Df  Dd  Db
+41  76  14  27  0   27  
+
+Td  ID  Tj  Df  Dd  Db
+42  2107 11  0   31  31  
+
+Td  ID  Tj  Df  Dd  Db
+42  2093 10  10  22  32  
+
+Td  ID  Tj  Df  Dd  Db
+42  86  15  27  0   27  
+
+Td  ID  Tj  Df  Dd  Db
+43  96  16  27  0   27  
+
+Td  ID  Tj  Df  Dd  Db
+44  2073 8   35  1   36  
+
+Td  ID  Tj  Df  Dd  Db
+44  106 17  27  0   27  
+
+Td  ID  Tj  Df  Dd  Db
+45  116 18  27  0   27  
+
+Td  ID  Tj  Df  Dd  Db
+46  2004 1   1   44  45  
+
+Td  ID  Tj  Df  Dd  Db
+46  214 28  8   10  18  
+
+Td  ID  Tj  Df  Dd  Db
+46  217 28  8   10  18  
+
+Td  ID  Tj  Df  Dd  Db
+46  219 28  8   10  18  
+
+Td  ID  Tj  Df  Dd  Db
+46  273 34  0   12  12  
+
+Td  ID  Tj  Df  Dd  Db
+46  126 19  27  0   27  
+
+Td  ID  Tj  Df  Dd  Db
+47  2068 7   2   38  40  
+
+Td  ID  Tj  Df  Dd  Db
+47  224 29  8   10  18  
+
+Td  ID  Tj  Df  Dd  Db
+47  136 20  27  0   27  
+
+Td  ID  Tj  Df  Dd  Db
+47  282 35  12  0   12  
+
+Td  ID  Tj  Df  Dd  Db
+48  2008 1   0   47  47  
+
+Td  ID  Tj  Df  Dd  Db
+48  227 29  9   10  19  
+
+Td  ID  Tj  Df  Dd  Db
+48  229 29  9   10  19  
+
+Td  ID  Tj  Df  Dd  Db
+48  263 33  0   15  15  
+
+Td  ID  Tj  Df  Dd  Db
+48  146 21  27  0   27  
+
+Td  ID  Tj  Df  Dd  Db
+49  234 30  9   10  19  
+
+Td  ID  Tj  Df  Dd  Db
+49  2038 4   30  15  45  
+
+Td  ID  Tj  Df  Dd  Db
+49  237 30  9   10  19  
+
+Td  ID  Tj  Df  Dd  Db
+49  239 30  9   10  19  
+
+Td  ID  Tj  Df  Dd  Db
+49  156 22  27  0   27  
+
+Td  ID  Tj  Df  Dd  Db
+49  312 38  1   10  11  
+
+Td  ID  Tj  Df  Dd  Db
+50  244 31  9   10  19  
+
+Td  ID  Tj  Df  Dd  Db
+50  247 31  9   10  19  
+
+Td  ID  Tj  Df  Dd  Db
+50  249 31  9   10  19  
+
+Td  ID  Tj  Df  Dd  Db
+50  166 23  27  0   27  
+
+Td  ID  Tj  Df  Dd  Db
+50  252 32  18  0   18  
+
+Td  ID  Tj  Df  Dd  Db
+51  2041 5   40  6   46  
+
+Td  ID  Tj  Df  Dd  Db
+51  257 32  9   10  19  
+
+Td  ID  Tj  Df  Dd  Db
+51  259 32  9   10  19  
+
+Td  ID  Tj  Df  Dd  Db
+51  264 33  9   9   18  
+
+Td  ID  Tj  Df  Dd  Db
+51  176 24  27  0   27  
+
+Td  ID  Tj  Df  Dd  Db
+51  242 31  20  0   20  
+
+Td  ID  Tj  Df  Dd  Db
+52  267 33  9   10  19  
+
+Td  ID  Tj  Df  Dd  Db
+52  269 33  9   10  19  
+
+Td  ID  Tj  Df  Dd  Db
+52  194 26  7   19  26  
+
+Td  ID  Tj  Df  Dd  Db
+52  197 26  7   19  26  
+
+Td  ID  Tj  Df  Dd  Db
+52  186 25  27  0   27  
+
+Td  ID  Tj  Df  Dd  Db
+52  232 30  22  0   22  
+
+Td  ID  Tj  Df  Dd  Db
+53  277 34  9   10  19  
+
+Td  ID  Tj  Df  Dd  Db
+53  279 34  9   10  19  
+
+Td  ID  Tj  Df  Dd  Db
+53  196 26  27  0   27  
+
+Td  ID  Tj  Df  Dd  Db
+53  222 29  24  0   24  
+
+Td  ID  Tj  Df  Dd  Db
+54  209 27  7   20  27  
+
+Td  ID  Tj  Df  Dd  Db
+54  284 35  9   10  19  
+
+Td  ID  Tj  Df  Dd  Db
+54  287 35  9   10  19  
+
+Td  ID  Tj  Df  Dd  Db
+54  289 35  9   10  19  
+
+Td  ID  Tj  Df  Dd  Db
+54  206 27  27  0   27  
+
+Td  ID  Tj  Df  Dd  Db
+54  212 28  26  0   26  
+
+Td  ID  Tj  Df  Dd  Db
+55  2012 2   5   48  53  
+
+Td  ID  Tj  Df  Dd  Db
+55  216 28  27  0   27  
+
+Td  ID  Tj  Df  Dd  Db
+55  202 27  28  0   28  
+
+Td  ID  Tj  Df  Dd  Db
+56  309 37  10  9   19  
+
+Td  ID  Tj  Df  Dd  Db
+56  314 38  9   9   18  
+
+Td  ID  Tj  Df  Dd  Db
+56  226 29  27  0   27  
+
+Td  ID  Tj  Df  Dd  Db
+56  192 26  30  0   30  
+
+Td  ID  Tj  Df  Dd  Db
+57  199 26  7   24  31  
+
+Td  ID  Tj  Df  Dd  Db
+57  236 30  27  0   27  
+
+Td  ID  Tj  Df  Dd  Db
+57  182 25  32  0   32  
+
+Td  ID  Tj  Df  Dd  Db
+58  2052 6   30  22  52  
+
+Td  ID  Tj  Df  Dd  Db
+58  246 31  27  0   27  
+
+Td  ID  Tj  Df  Dd  Db
+58  172 24  34  0   34  
+
+Td  ID  Tj  Df  Dd  Db
+59  307 37  9   13  22  
+
+Td  ID  Tj  Df  Dd  Db
+59  256 32  27  0   27  
+
+Td  ID  Tj  Df  Dd  Db
+59  162 23  36  0   36  
+
+Td  ID  Tj  Df  Dd  Db
+59  266 33  26  0   26  
+
+Td  ID  Tj  Df  Dd  Db
+60  2017 2   9   49  58  
+
+Td  ID  Tj  Df  Dd  Db
+60  276 34  26  0   26  
+
+Td  ID  Tj  Df  Dd  Db
+60  152 22  38  0   38  
+
+Td  ID  Tj  Df  Dd  Db
+60  286 35  25  0   25  
+
+Td  ID  Tj  Df  Dd  Db
+61  254 32  9   20  29  
+
+Td  ID  Tj  Df  Dd  Db
+61  296 36  25  0   25  
+
+Td  ID  Tj  Df  Dd  Db
+61  142 21  40  0   40  
+
+Td  ID  Tj  Df  Dd  Db
+61  306 37  24  0   24  
+
+Td  ID  Tj  Df  Dd  Db
+62  2043 5   8   49  57  
+
+Td  ID  Tj  Df  Dd  Db
+62  4000 59  0   3   3   
+
+Td  ID  Tj  Df  Dd  Db
+62  4001 59  0   3   3   
+
+Td  ID  Tj  Df  Dd  Db
+62  316 38  24  0   24  
+
+Td  ID  Tj  Df  Dd  Db
+62  68  12  50  0   50  
+
+Td  ID  Tj  Df  Dd  Db
+63  89  15  1   47  48  
+
+Td  ID  Tj  Df  Dd  Db
+63  80  14  49  0   49  
+
+Td  ID  Tj  Df  Dd  Db
+63  90  15  48  0   48  
+
+Td  ID  Tj  Df  Dd  Db
+64  2060 7   14  43  57  
+
+Td  ID  Tj  Df  Dd  Db
+64  2063 7   14  43  57  
+
+Td  ID  Tj  Df  Dd  Db
+64  159 22  5   37  42  
+
+Td  ID  Tj  Df  Dd  Db
+64  299 36  10  18  28  
+
+Td  ID  Tj  Df  Dd  Db
+64  100 16  48  0   48  
+
+Td  ID  Tj  Df  Dd  Db
+64  110 17  47  0   47  
+
+Td  ID  Tj  Df  Dd  Db
+65  120 18  47  0   47  
+
+Td  ID  Tj  Df  Dd  Db
+65  130 19  46  0   46  
+
+Td  ID  Tj  Df  Dd  Db
+66  2083 9   19  38  57  
+
+Td  ID  Tj  Df  Dd  Db
+66  140 20  46  0   46  
+
+Td  ID  Tj  Df  Dd  Db
+66  132 20  46  0   46  
+
+Td  ID  Tj  Df  Dd  Db
+66  150 21  45  0   45  
+
+Td  ID  Tj  Df  Dd  Db
+67  4003 59  1   7   8   
+
+Td  ID  Tj  Df  Dd  Db
+67  4004 59  1   7   8   
+
+Td  ID  Tj  Df  Dd  Db
+67  4005 59  1   7   8   
+
+Td  ID  Tj  Df  Dd  Db
+67  160 22  45  0   45  
+
+Td  ID  Tj  Df  Dd  Db
+67  170 23  44  0   44  
+
+Td  ID  Tj  Df  Dd  Db
+68  180 24  44  0   44  
+
+Td  ID  Tj  Df  Dd  Db
+68  190 25  43  0   43  
+
+Td  ID  Tj  Df  Dd  Db
+69  207 27  7   35  42  
+
+Td  ID  Tj  Df  Dd  Db
+69  200 26  43  0   43  
+
+Td  ID  Tj  Df  Dd  Db
+69  59  11  0   58  58  
+
+Td  ID  Tj  Df  Dd  Db
+69  210 27  42  0   42  
+
+Td  ID  Tj  Df  Dd  Db
+70  2103 11  24  35  59  
+
+Td  ID  Tj  Df  Dd  Db
+70  2104 11  24  35  59  
+
+Td  ID  Tj  Df  Dd  Db
+70  2034 4   7   59  66  
+
+Td  ID  Tj  Df  Dd  Db
+70  2007 1   20  49  69  
+
+Td  ID  Tj  Df  Dd  Db
+70  304 37  9   24  33  
+
+Td  ID  Tj  Df  Dd  Db
+70  220 28  42  0   42  
+
+Td  ID  Tj  Df  Dd  Db
+70  230 29  41  0   41  
+
+Td  ID  Tj  Df  Dd  Db
+71  2040 5   7   59  66  
+
+Td  ID  Tj  Df  Dd  Db
+71  240 30  41  0   41  
+
+Td  ID  Tj  Df  Dd  Db
+71  250 31  40  0   40  
+
+Td  ID  Tj  Df  Dd  Db
+72  4006 59  2   11  13  
+
+Td  ID  Tj  Df  Dd  Db
+72  4007 59  2   11  13  
+
+Td  ID  Tj  Df  Dd  Db
+72  260 32  40  0   40  
+
+Td  ID  Tj  Df  Dd  Db
+72  270 33  39  0   39  
+
+Td  ID  Tj  Df  Dd  Db
+73  2054 6   10  57  67  
+
+Td  ID  Tj  Df  Dd  Db
+73  328 73  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+73  330 73  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+73  323 73  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+74  2064 7   15  52  67  
+
+Td  ID  Tj  Df  Dd  Db
+74  2069 7   15  52  67  
+
+Td  ID  Tj  Df  Dd  Db
+74  274 34  9   31  40  
+
+Td  ID  Tj  Df  Dd  Db
+74  338 74  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+74  340 74  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+74  333 74  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+75  2071 8   17  50  67  
+
+Td  ID  Tj  Df  Dd  Db
+75  184 25  6   44  50  
+
+Td  ID  Tj  Df  Dd  Db
+75  348 75  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+75  350 75  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+75  343 75  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+76  2025 3   5   68  73  
+
+Td  ID  Tj  Df  Dd  Db
+76  2080 9   18  49  67  
+
+Td  ID  Tj  Df  Dd  Db
+76  358 76  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+76  360 76  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+76  353 76  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+77  2084 9   19  49  68  
+
+Td  ID  Tj  Df  Dd  Db
+77  4009 59  3   15  18  
+
+Td  ID  Tj  Df  Dd  Db
+77  368 77  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+77  370 77  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+77  363 77  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+78  4041 63  15  0   15  
+
+Td  ID  Tj  Df  Dd  Db
+78  164 23  5   50  55  
+
+Td  ID  Tj  Df  Dd  Db
+78  378 78  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+78  380 78  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+78  373 78  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+79  388 79  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+79  390 79  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+79  383 79  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+80  87  15  1   64  65  
+
+Td  ID  Tj  Df  Dd  Db
+80  398 80  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+80  400 80  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+80  393 80  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+81  2001 1   0   80  80  
+
+Td  ID  Tj  Df  Dd  Db
+81  408 81  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+81  410 81  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+81  403 81  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+82  4002 59  0   23  23  
+
+Td  ID  Tj  Df  Dd  Db
+82  4010 60  3   19  22  
+
+Td  ID  Tj  Df  Dd  Db
+82  418 82  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+82  420 82  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+82  413 82  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+83  2031 4   7   72  79  
+
+Td  ID  Tj  Df  Dd  Db
+83  428 83  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+83  430 83  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+83  423 83  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+84  297 36  9   39  48  
+
+Td  ID  Tj  Df  Dd  Db
+84  280 34  50  0   50  
+
+Td  ID  Tj  Df  Dd  Db
+84  429 83  1   0   1   
+
+Td  ID  Tj  Df  Dd  Db
+84  290 35  49  0   49  
+
+Td  ID  Tj  Df  Dd  Db
+85  2036 4   8   73  81  
+
+Td  ID  Tj  Df  Dd  Db
+85  2011 2   2   81  83  
+
+Td  ID  Tj  Df  Dd  Db
+85  300 36  49  0   49  
+
+Td  ID  Tj  Df  Dd  Db
+85  426 83  2   0   2   
+
+Td  ID  Tj  Df  Dd  Db
+85  310 37  48  0   48  
+
+Td  ID  Tj  Df  Dd  Db
+86  4011 60  4   22  26  
+
+Td  ID  Tj  Df  Dd  Db
+86  4012 60  4   22  26  
+
+Td  ID  Tj  Df  Dd  Db
+86  320 38  48  0   48  
+
+Td  ID  Tj  Df  Dd  Db
+86  424 83  3   0   3   
+
+Td  ID  Tj  Df  Dd  Db
+86  71  14  72  0   72  
+
+Td  ID  Tj  Df  Dd  Db
+87  2014 2   3   82  85  
+
+Td  ID  Tj  Df  Dd  Db
+87  4013 60  4   23  27  
+
+Td  ID  Tj  Df  Dd  Db
+87  81  15  72  0   72  
+
+Td  ID  Tj  Df  Dd  Db
+87  91  16  71  0   71  
+
+Td  ID  Tj  Df  Dd  Db
+88  425 83  3   2   5   
+
+Td  ID  Tj  Df  Dd  Db
+88  101 17  71  0   71  
+
+Td  ID  Tj  Df  Dd  Db
+88  421 83  5   0   5   
+
+Td  ID  Tj  Df  Dd  Db
+88  111 18  70  0   70  
+
+Td  ID  Tj  Df  Dd  Db
+89  2020 3   4   82  86  
+
+Td  ID  Tj  Df  Dd  Db
+89  4063 65  24  0   24  
+
+Td  ID  Tj  Df  Dd  Db
+89  342 75  6   8   14  
+
+Td  ID  Tj  Df  Dd  Db
+89  121 19  70  0   70  
+
+Td  ID  Tj  Df  Dd  Db
+89  416 82  7   0   7   
+
+Td  ID  Tj  Df  Dd  Db
+89  131 20  69  0   69  
+
+Td  ID  Tj  Df  Dd  Db
+90  2022 3   4   83  87  
+
+Td  ID  Tj  Df  Dd  Db
+90  352 76  6   8   14  
+
+Td  ID  Tj  Df  Dd  Db
+90  204 27  7   56  63  
+
+Td  ID  Tj  Df  Dd  Db
+90  141 21  69  0   69  
+
+Td  ID  Tj  Df  Dd  Db
+90  151 22  68  0   68  
+
+Td  ID  Tj  Df  Dd  Db
+91  4014 60  5   26  31  
+
+Td  ID  Tj  Df  Dd  Db
+91  294 36  9   46  55  
+
+Td  ID  Tj  Df  Dd  Db
+91  4015 60  5   26  31  
+
+Td  ID  Tj  Df  Dd  Db
+91  161 23  68  0   68  
+
+Td  ID  Tj  Df  Dd  Db
+91  419 82  7   2   9   
+
+Td  ID  Tj  Df  Dd  Db
+91  171 24  67  0   67  
+
+Td  ID  Tj  Df  Dd  Db
+92  4016 60  5   27  32  
+
+Td  ID  Tj  Df  Dd  Db
+92  362 77  6   9   15  
+
+Td  ID  Tj  Df  Dd  Db
+92  181 25  67  0   67  
+
+Td  ID  Tj  Df  Dd  Db
+92  415 82  10  0   10  
+
+Td  ID  Tj  Df  Dd  Db
+92  191 26  66  0   66  
+
+Td  ID  Tj  Df  Dd  Db
+93  434 93  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+93  439 93  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+93  201 27  66  0   66  
+
+Td  ID  Tj  Df  Dd  Db
+93  437 93  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+94  2027 3   6   85  91  
+
+Td  ID  Tj  Df  Dd  Db
+94  444 94  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+94  449 94  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+94  211 28  66  0   66  
+
+Td  ID  Tj  Df  Dd  Db
+94  447 94  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+95  454 95  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+95  459 95  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+95  221 29  66  0   66  
+
+Td  ID  Tj  Df  Dd  Db
+95  457 95  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+96  2006 1   2   93  95  
+
+Td  ID  Tj  Df  Dd  Db
+96  2091 10  22  64  86  
+
+Td  ID  Tj  Df  Dd  Db
+96  402 81  7   8   15  
+
+Td  ID  Tj  Df  Dd  Db
+96  464 96  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+96  469 96  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+96  231 30  66  0   66  
+
+Td  ID  Tj  Df  Dd  Db
+96  467 96  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+97  422 83  8   6   14  
+
+Td  ID  Tj  Df  Dd  Db
+97  474 97  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+97  479 97  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+97  241 31  66  0   66  
+
+Td  ID  Tj  Df  Dd  Db
+97  477 97  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+98  2100 11  23  64  87  
+
+Td  ID  Tj  Df  Dd  Db
+98  431 93  5   0   5   
+
+Td  ID  Tj  Df  Dd  Db
+98  484 98  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+98  489 98  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+98  251 32  66  0   66  
+
+Td  ID  Tj  Df  Dd  Db
+98  487 98  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+99  494 99  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+99  499 99  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+99  261 33  66  0   66  
+
+Td  ID  Tj  Df  Dd  Db
+99  497 99  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+100  2109 11  25  64  89  
+
+Td  ID  Tj  Df  Dd  Db
+100  504 100  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+100  509 100  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+100  271 34  66  0   66  
+
+Td  ID  Tj  Df  Dd  Db
+100  507 100  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+101  281 35  66  0   66  
+
+Td  ID  Tj  Df  Dd  Db
+101  506 100  1   0   1   
+
+Td  ID  Tj  Df  Dd  Db
+101  291 36  65  0   65  
+
+Td  ID  Tj  Df  Dd  Db
+101  502 100  1   0   1   
+
+Td  ID  Tj  Df  Dd  Db
+102  301 37  65  0   65  
+
+Td  ID  Tj  Df  Dd  Db
+102  496 99  3   0   3   
+
+Td  ID  Tj  Df  Dd  Db
+102  311 38  64  0   64  
+
+Td  ID  Tj  Df  Dd  Db
+102  492 99  3   0   3   
+
+Td  ID  Tj  Df  Dd  Db
+103  460 95  8   0   8   
+
+Td  ID  Tj  Df  Dd  Db
+103  435 93  10  0   10  
+
+Td  ID  Tj  Df  Dd  Db
+103  486 98  5   0   5   
+
+Td  ID  Tj  Df  Dd  Db
+103  445 94  9   0   9   
+
+Td  ID  Tj  Df  Dd  Db
+103  482 98  5   0   5   
+
+Td  ID  Tj  Df  Dd  Db
+104  4021 61  7   36  43  
+
+Td  ID  Tj  Df  Dd  Db
+104  455 95  9   0   9   
+
+Td  ID  Tj  Df  Dd  Db
+104  476 97  7   0   7   
+
+Td  ID  Tj  Df  Dd  Db
+104  465 96  8   0   8   
+
+Td  ID  Tj  Df  Dd  Db
+104  472 97  7   0   7   
+
+Td  ID  Tj  Df  Dd  Db
+105  2044 5   8   92  100  
+
+Td  ID  Tj  Df  Dd  Db
+105  2079 8   25  72  97  
+
+Td  ID  Tj  Df  Dd  Db
+105  4101 69  36  0   36  
+
+Td  ID  Tj  Df  Dd  Db
+105  470 96  9   0   9   
+
+Td  ID  Tj  Df  Dd  Db
+105  65  12  0   93  93  
+
+Td  ID  Tj  Df  Dd  Db
+105  475 97  8   0   8   
+
+Td  ID  Tj  Df  Dd  Db
+105  466 96  9   0   9   
+
+Td  ID  Tj  Df  Dd  Db
+105  485 98  7   0   7   
+
+Td  ID  Tj  Df  Dd  Db
+105  462 96  9   0   9   
+
+Td  ID  Tj  Df  Dd  Db
+106  2049 5   9   92  101  
+
+Td  ID  Tj  Df  Dd  Db
+106  2016 2   3   101  104  
+
+Td  ID  Tj  Df  Dd  Db
+106  67  12  0   94  94  
+
+Td  ID  Tj  Df  Dd  Db
+106  495 99  7   0   7   
+
+Td  ID  Tj  Df  Dd  Db
+106  456 95  11  0   11  
+
+Td  ID  Tj  Df  Dd  Db
+106  505 100  6   0   6   
+
+Td  ID  Tj  Df  Dd  Db
+106  452 95  11  0   11  
+
+Td  ID  Tj  Df  Dd  Db
+107  2051 6   10  91  101  
+
+Td  ID  Tj  Df  Dd  Db
+107  60  11  96  0   96  
+
+Td  ID  Tj  Df  Dd  Db
+107  446 94  13  0   13  
+
+Td  ID  Tj  Df  Dd  Db
+107  433 93  14  0   14  
+
+Td  ID  Tj  Df  Dd  Db
+107  442 94  13  0   13  
+
+Td  ID  Tj  Df  Dd  Db
+108  317 38  10  60  70  
+
+Td  ID  Tj  Df  Dd  Db
+108  500 99  9   0   9   
+
+Td  ID  Tj  Df  Dd  Db
+108  440 93  6   9   15  
+
+Td  ID  Tj  Df  Dd  Db
+108  517 108  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+108  519 108  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+108  514 108  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+109  2067 7   37  65  102  
+
+Td  ID  Tj  Df  Dd  Db
+109  527 109  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+109  530 109  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+109  524 109  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+110  450 94  7   9   16  
+
+Td  ID  Tj  Df  Dd  Db
+110  540 110  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+110  537 110  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+110  535 110  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+110  534 110  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+111  547 111  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+111  550 111  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+111  544 111  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+112  481 98  9   5   14  
+
+Td  ID  Tj  Df  Dd  Db
+112  560 112  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+112  557 112  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+112  555 112  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+112  554 112  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+113  84  15  1   97  98  
+
+Td  ID  Tj  Df  Dd  Db
+113  501 100  9   4   13  
+
+Td  ID  Tj  Df  Dd  Db
+113  510 100  9   4   13  
+
+Td  ID  Tj  Df  Dd  Db
+113  567 113  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+113  565 113  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+113  564 113  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+114  580 114  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+114  577 114  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+114  575 114  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+114  574 114  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+115  332 74  6   35  41  
+
+Td  ID  Tj  Df  Dd  Db
+115  147 21  5   89  94  
+
+Td  ID  Tj  Df  Dd  Db
+115  587 115  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+115  589 115  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+115  584 115  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+116  2087 9   5   102  107  
+
+Td  ID  Tj  Df  Dd  Db
+116  598 116  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+116  599 116  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+116  595 116  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+117  2061 7   19  91  110  
+
+Td  ID  Tj  Df  Dd  Db
+117  319 38  10  69  79  
+
+Td  ID  Tj  Df  Dd  Db
+117  382 79  7   31  38  
+
+Td  ID  Tj  Df  Dd  Db
+117  608 117  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+117  610 117  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+117  605 117  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+118  618 118  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+118  620 118  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+118  615 118  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+119  471 97  10  12  22  
+
+Td  ID  Tj  Df  Dd  Db
+119  480 97  10  12  22  
+
+Td  ID  Tj  Df  Dd  Db
+119  628 119  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+119  630 119  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+119  625 119  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+119  520 108  0   11  11  
+
+Td  ID  Tj  Df  Dd  Db
+120  441 94  6   20  26  
+
+Td  ID  Tj  Df  Dd  Db
+120  638 120  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+120  640 120  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+120  635 120  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+121  451 95  7   19  26  
+
+Td  ID  Tj  Df  Dd  Db
+121  461 96  8   17  25  
+
+Td  ID  Tj  Df  Dd  Db
+121  648 121  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+121  650 121  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+121  645 121  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+121  539 110  0   11  11  
+
+Td  ID  Tj  Df  Dd  Db
+122  412 82  7   33  40  
+
+Td  ID  Tj  Df  Dd  Db
+122  594 116  3   3   6   
+
+Td  ID  Tj  Df  Dd  Db
+122  372 78  7   37  44  
+
+Td  ID  Tj  Df  Dd  Db
+122  658 122  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+122  660 122  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+122  655 122  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+123  604 117  3   3   6   
+
+Td  ID  Tj  Df  Dd  Db
+123  614 118  2   3   5   
+
+Td  ID  Tj  Df  Dd  Db
+123  644 121  2   0   2   
+
+Td  ID  Tj  Df  Dd  Db
+123  657 122  1   0   1   
+
+Td  ID  Tj  Df  Dd  Db
+123  518 108  15  0   15  
+
+Td  ID  Tj  Df  Dd  Db
+123  656 122  1   0   1   
+
+Td  ID  Tj  Df  Dd  Db
+123  559 112  0   11  11  
+
+Td  ID  Tj  Df  Dd  Db
+124  624 119  2   3   5   
+
+Td  ID  Tj  Df  Dd  Db
+124  528 109  15  0   15  
+
+Td  ID  Tj  Df  Dd  Db
+124  649 121  3   0   3   
+
+Td  ID  Tj  Df  Dd  Db
+124  570 113  0   11  11  
+
+Td  ID  Tj  Df  Dd  Db
+124  569 113  0   11  11  
+
+Td  ID  Tj  Df  Dd  Db
+125  634 120  2   3   5   
+
+Td  ID  Tj  Df  Dd  Db
+125  538 110  15  0   15  
+
+Td  ID  Tj  Df  Dd  Db
+125  647 121  4   0   4   
+
+Td  ID  Tj  Df  Dd  Db
+125  579 114  0   11  11  
+
+Td  ID  Tj  Df  Dd  Db
+126  2076 8   18  100  118  
+
+Td  ID  Tj  Df  Dd  Db
+126  548 111  15  0   15  
+
+Td  ID  Tj  Df  Dd  Db
+126  646 121  5   0   5   
+
+Td  ID  Tj  Df  Dd  Db
+126  590 115  0   11  11  
+
+Td  ID  Tj  Df  Dd  Db
+127  392 80  7   40  47  
+
+Td  ID  Tj  Df  Dd  Db
+127  558 112  15  0   15  
+
+Td  ID  Tj  Df  Dd  Db
+127  643 121  6   0   6   
+
+Td  ID  Tj  Df  Dd  Db
+128  490 98  10  20  30  
+
+Td  ID  Tj  Df  Dd  Db
+128  491 99  9   20  29  
+
+Td  ID  Tj  Df  Dd  Db
+128  568 113  15  0   15  
+
+Td  ID  Tj  Df  Dd  Db
+128  637 120  8   0   8   
+
+Td  ID  Tj  Df  Dd  Db
+129  578 114  15  0   15  
+
+Td  ID  Tj  Df  Dd  Db
+129  631 120  9   0   9   
+
+Td  ID  Tj  Df  Dd  Db
+130  661 130  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+130  669 130  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+130  668 130  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+130  666 130  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+131  673 131  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+131  675 131  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+131  678 131  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+132  681 132  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+132  690 132  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+132  688 132  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+132  687 132  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+132  684 132  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+132  689 132  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+133  700 133  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+133  691 133  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+133  698 133  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+133  697 133  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+133  695 133  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+133  699 133  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+134  654 122  2   10  12  
+
+Td  ID  Tj  Df  Dd  Db
+134  707 134  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+134  705 134  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+134  709 134  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+134  659 122  1   11  12  
+
+Td  ID  Tj  Df  Dd  Db
+135  662 130  0   5   5   
+
+Td  ID  Tj  Df  Dd  Db
+135  717 135  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+135  720 135  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+135  719 135  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+135  653 122  2   11  13  
+
+Td  ID  Tj  Df  Dd  Db
+135  651 122  2   11  13  
+
+Td  ID  Tj  Df  Dd  Db
+136  727 136  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+136  728 136  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+136  729 136  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+137  721 136  0   1   1   
+
+Td  ID  Tj  Df  Dd  Db
+137  588 115  22  0   22  
+
+Td  ID  Tj  Df  Dd  Db
+137  725 136  1   0   1   
+
+Td  ID  Tj  Df  Dd  Db
+137  676 131  6   0   6   
+
+Td  ID  Tj  Df  Dd  Db
+138  322 73  6   59  65  
+
+Td  ID  Tj  Df  Dd  Db
+138  592 116  22  0   22  
+
+Td  ID  Tj  Df  Dd  Db
+138  724 136  2   0   2   
+
+Td  ID  Tj  Df  Dd  Db
+138  602 117  21  0   21  
+
+Td  ID  Tj  Df  Dd  Db
+139  612 118  21  0   21  
+
+Td  ID  Tj  Df  Dd  Db
+139  641 121  7   11  18  
+
+Td  ID  Tj  Df  Dd  Db
+139  622 119  20  0   20  
+
+Td  ID  Tj  Df  Dd  Db
+139  639 120  8   11  19  
+
+Td  ID  Tj  Df  Dd  Db
+140  2089 9   20  111  131  
+
+Td  ID  Tj  Df  Dd  Db
+140  701 134  0   6   6   
+
+Td  ID  Tj  Df  Dd  Db
+140  632 120  20  0   20  
+
+Td  ID  Tj  Df  Dd  Db
+140  642 121  19  0   19  
+
+Td  ID  Tj  Df  Dd  Db
+140  633 120  9   11  20  
+
+Td  ID  Tj  Df  Dd  Db
+141  672 131  0   10  10  
+
+Td  ID  Tj  Df  Dd  Db
+141  652 122  19  0   19  
+
+Td  ID  Tj  Df  Dd  Db
+141  670 130  0   11  11  
+
+Td  ID  Tj  Df  Dd  Db
+141  443 94  47  0   47  
+
+Td  ID  Tj  Df  Dd  Db
+142  2126 60  2   80  82  
+
+Td  ID  Tj  Df  Dd  Db
+142  453 95  47  0   47  
+
+Td  ID  Tj  Df  Dd  Db
+142  463 96  46  0   46  
+
+Td  ID  Tj  Df  Dd  Db
+143  636 120  9   14  23  
+
+Td  ID  Tj  Df  Dd  Db
+143  718 135  8   0   8   
+
+Td  ID  Tj  Df  Dd  Db
+143  473 97  46  0   46  
+
+Td  ID  Tj  Df  Dd  Db
+143  483 98  45  0   45  
+
+Td  ID  Tj  Df  Dd  Db
+143  685 132  0   11  11  
+
+Td  ID  Tj  Df  Dd  Db
+144  733 144  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+144  736 144  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+144  735 144  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+144  738 144  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+144  739 144  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+145  749 145  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+145  746 145  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+145  744 145  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+145  710 134  0   11  11  
+
+Td  ID  Tj  Df  Dd  Db
+145  708 134  0   11  11  
+
+Td  ID  Tj  Df  Dd  Db
+146  759 146  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+146  758 146  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+146  754 146  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+147  755 146  0   1   1   
+
+Td  ID  Tj  Df  Dd  Db
+147  768 147  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+147  769 147  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+147  766 147  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+147  764 147  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+148  745 145  0   3   3   
+
+Td  ID  Tj  Df  Dd  Db
+148  779 148  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+148  777 148  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+148  774 148  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+149  2799 136  8   5   13  
+
+Td  ID  Tj  Df  Dd  Db
+149  711 135  0   14  14  
+
+Td  ID  Tj  Df  Dd  Db
+149  765 147  0   2   2   
+
+Td  ID  Tj  Df  Dd  Db
+149  788 149  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+149  787 149  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+149  789 149  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+149  786 149  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+150  799 150  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+150  798 150  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+151  795 150  0   1   1   
+
+Td  ID  Tj  Df  Dd  Db
+151  775 148  0   3   3   
+
+Td  ID  Tj  Df  Dd  Db
+151  808 151  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+151  809 151  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+151  807 151  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+152  2094 10  23  119  142  
+
+Td  ID  Tj  Df  Dd  Db
+152  819 152  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+152  818 152  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+153  815 152  0   1   1   
+
+Td  ID  Tj  Df  Dd  Db
+153  785 149  0   4   4   
+
+Td  ID  Tj  Df  Dd  Db
+153  784 149  4   0   4   
+
+Td  ID  Tj  Df  Dd  Db
+153  794 150  3   0   3   
+
+Td  ID  Tj  Df  Dd  Db
+153  817 152  1   0   1   
+
+Td  ID  Tj  Df  Dd  Db
+154  805 151  0   3   3   
+
+Td  ID  Tj  Df  Dd  Db
+154  804 151  3   0   3   
+
+Td  ID  Tj  Df  Dd  Db
+154  813 152  2   0   2   
+
+Td  ID  Tj  Df  Dd  Db
+154  814 152  2   0   2   
+
+Td  ID  Tj  Df  Dd  Db
+154  816 152  2   0   2   
+
+Td  ID  Tj  Df  Dd  Db
+155  715 135  8   12  20  
+
+Td  ID  Tj  Df  Dd  Db
+155  741 145  10  0   10  
+
+Td  ID  Tj  Df  Dd  Db
+155  806 151  4   0   4   
+
+Td  ID  Tj  Df  Dd  Db
+155  751 146  9   0   9   
+
+Td  ID  Tj  Df  Dd  Db
+155  803 151  4   0   4   
+
+Td  ID  Tj  Df  Dd  Db
+156  761 147  9   0   9   
+
+Td  ID  Tj  Df  Dd  Db
+156  771 148  8   0   8   
+
+Td  ID  Tj  Df  Dd  Db
+156  802 151  5   0   5   
+
+Td  ID  Tj  Df  Dd  Db
+157  824 157  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+157  829 157  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+157  781 149  8   0   8   
+
+Td  ID  Tj  Df  Dd  Db
+157  830 157  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+158  791 150  8   0   8   
+
+Td  ID  Tj  Df  Dd  Db
+158  828 157  1   0   1   
+
+Td  ID  Tj  Df  Dd  Db
+158  801 151  7   0   7   
+
+Td  ID  Tj  Df  Dd  Db
+158  827 157  1   0   1   
+
+Td  ID  Tj  Df  Dd  Db
+158  767 147  0   11  11  
+
+Td  ID  Tj  Df  Dd  Db
+159  811 152  7   0   7   
+
+Td  ID  Tj  Df  Dd  Db
+159  493 99  60  0   60  
+
+Td  ID  Tj  Df  Dd  Db
+159  793 150  9   0   9   
+
+Td  ID  Tj  Df  Dd  Db
+159  778 148  0   11  11  
+
+Td  ID  Tj  Df  Dd  Db
+160  821 157  0   3   3   
+
+Td  ID  Tj  Df  Dd  Db
+160  783 149  11  0   11  
+
+Td  ID  Tj  Df  Dd  Db
+160  503 100  60  0   60  
+
+Td  ID  Tj  Df  Dd  Db
+160  776 148  12  0   12  
+
+Td  ID  Tj  Df  Dd  Db
+160  513 108  52  0   52  
+
+Td  ID  Tj  Df  Dd  Db
+160  773 148  12  0   12  
+
+Td  ID  Tj  Df  Dd  Db
+161  523 109  52  0   52  
+
+Td  ID  Tj  Df  Dd  Db
+161  772 148  13  0   13  
+
+Td  ID  Tj  Df  Dd  Db
+161  533 110  51  0   51  
+
+Td  ID  Tj  Df  Dd  Db
+161  762 147  14  0   14  
+
+Td  ID  Tj  Df  Dd  Db
+162  2002 1   11  150  161  
+
+Td  ID  Tj  Df  Dd  Db
+162  756 146  16  0   16  
+
+Td  ID  Tj  Df  Dd  Db
+162  753 146  16  0   16  
+
+Td  ID  Tj  Df  Dd  Db
+162  543 111  51  0   51  
+
+Td  ID  Tj  Df  Dd  Db
+162  553 112  50  0   50  
+
+Td  ID  Tj  Df  Dd  Db
+162  752 146  16  0   16  
+
+Td  ID  Tj  Df  Dd  Db
+163  832 163  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+163  835 163  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+163  839 163  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+163  834 163  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+163  838 163  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+163  563 113  50  0   50  
+
+Td  ID  Tj  Df  Dd  Db
+163  837 163  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+164  747 145  0   19  19  
+
+Td  ID  Tj  Df  Dd  Db
+164  573 114  50  0   50  
+
+Td  ID  Tj  Df  Dd  Db
+164  730 136  0   28  28  
+
+Td  ID  Tj  Df  Dd  Db
+165  833 163  1   1   2   
+
+Td  ID  Tj  Df  Dd  Db
+165  748 145  0   20  20  
+
+Td  ID  Tj  Df  Dd  Db
+165  583 115  50  0   50  
+
+Td  ID  Tj  Df  Dd  Db
+165  743 145  20  0   20  
+
+Td  ID  Tj  Df  Dd  Db
+166  2141 62  8   96  104  
+
+Td  ID  Tj  Df  Dd  Db
+166  740 144  0   22  22  
+
+Td  ID  Tj  Df  Dd  Db
+166  438 93  73  0   73  
+
+Td  ID  Tj  Df  Dd  Db
+166  742 145  21  0   21  
+
+Td  ID  Tj  Df  Dd  Db
+166  812 152  3   11  14  
+
+Td  ID  Tj  Df  Dd  Db
+167  448 94  73  0   73  
+
+Td  ID  Tj  Df  Dd  Db
+167  732 144  23  0   23  
+
+Td  ID  Tj  Df  Dd  Db
+167  797 150  6   11  17  
+
+Td  ID  Tj  Df  Dd  Db
+168  822 157  0   11  11  
+
+Td  ID  Tj  Df  Dd  Db
+168  737 144  23  1   24  
+
+Td  ID  Tj  Df  Dd  Db
+168  458 95  73  0   73  
+
+Td  ID  Tj  Df  Dd  Db
+168  731 144  24  0   24  
+
+Td  ID  Tj  Df  Dd  Db
+168  825 157  0   11  11  
+
+Td  ID  Tj  Df  Dd  Db
+169  843 169  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+169  842 169  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+169  848 169  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+169  845 169  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+170  849 169  0   1   1   
+
+Td  ID  Tj  Df  Dd  Db
+170  852 170  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+170  858 170  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+170  855 170  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+170  823 157  2   11  13  
+
+Td  ID  Tj  Df  Dd  Db
+170  796 150  9   11  20  
+
+Td  ID  Tj  Df  Dd  Db
+170  723 136  6   28  34  
+
+Td  ID  Tj  Df  Dd  Db
+171  844 169  0   2   2   
+
+Td  ID  Tj  Df  Dd  Db
+171  853 170  0   1   1   
+
+Td  ID  Tj  Df  Dd  Db
+171  854 170  0   1   1   
+
+Td  ID  Tj  Df  Dd  Db
+171  859 170  0   1   1   
+
+Td  ID  Tj  Df  Dd  Db
+171  862 171  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+171  868 171  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+171  865 171  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+171  792 150  10  11  21  
+
+Td  ID  Tj  Df  Dd  Db
+171  782 149  11  11  22  
+
+Td  ID  Tj  Df  Dd  Db
+172  864 171  1   0   1   
+
+Td  ID  Tj  Df  Dd  Db
+172  872 172  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+172  878 172  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+172  875 172  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+172  763 147  14  11  25  
+
+Td  ID  Tj  Df  Dd  Db
+173  869 171  1   1   2   
+
+Td  ID  Tj  Df  Dd  Db
+173  873 172  0   1   1   
+
+Td  ID  Tj  Df  Dd  Db
+173  874 172  0   1   1   
+
+Td  ID  Tj  Df  Dd  Db
+173  879 172  0   1   1   
+
+Td  ID  Tj  Df  Dd  Db
+173  882 173  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+173  888 173  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+173  885 173  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+173  757 146  16  11  27  
+
+Td  ID  Tj  Df  Dd  Db
+174  892 174  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+174  898 174  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+174  895 174  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+174  831 163  0   11  11  
+
+Td  ID  Tj  Df  Dd  Db
+174  840 163  0   11  11  
+
+Td  ID  Tj  Df  Dd  Db
+175  883 173  1   1   2   
+
+Td  ID  Tj  Df  Dd  Db
+175  884 173  1   1   2   
+
+Td  ID  Tj  Df  Dd  Db
+175  889 173  1   1   2   
+
+Td  ID  Tj  Df  Dd  Db
+175  902 175  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+175  908 175  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+175  905 175  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+176  894 174  0   2   2   
+
+Td  ID  Tj  Df  Dd  Db
+176  899 174  1   1   2   
+
+Td  ID  Tj  Df  Dd  Db
+176  912 176  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+176  918 176  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+176  915 176  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+177  903 175  1   1   2   
+
+Td  ID  Tj  Df  Dd  Db
+177  904 175  1   1   2   
+
+Td  ID  Tj  Df  Dd  Db
+177  468 96  81  0   81  
+
+Td  ID  Tj  Df  Dd  Db
+177  917 176  1   0   1   
+
+Td  ID  Tj  Df  Dd  Db
+177  478 97  80  0   80  
+
+Td  ID  Tj  Df  Dd  Db
+178  2375 85  7   86  93  
+
+Td  ID  Tj  Df  Dd  Db
+178  909 175  1   2   3   
+
+Td  ID  Tj  Df  Dd  Db
+178  913 176  1   1   2   
+
+Td  ID  Tj  Df  Dd  Db
+178  914 176  1   1   2   
+
+Td  ID  Tj  Df  Dd  Db
+178  919 176  1   1   2   
+
+Td  ID  Tj  Df  Dd  Db
+178  488 98  80  0   80  
+
+Td  ID  Tj  Df  Dd  Db
+178  916 176  2   0   2   
+
+Td  ID  Tj  Df  Dd  Db
+178  498 99  79  0   79  
+
+Td  ID  Tj  Df  Dd  Db
+179  508 100  79  0   79  
+
+Td  ID  Tj  Df  Dd  Db
+179  907 175  4   0   4   
+
+Td  ID  Tj  Df  Dd  Db
+179  516 108  71  0   71  
+
+Td  ID  Tj  Df  Dd  Db
+180  924 180  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+180  925 180  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+180  927 180  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+180  923 180  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+180  850 169  0   11  11  
+
+Td  ID  Tj  Df  Dd  Db
+181  928 180  0   1   1   
+
+Td  ID  Tj  Df  Dd  Db
+181  929 180  1   0   1   
+
+Td  ID  Tj  Df  Dd  Db
+181  930 180  0   1   1   
+
+Td  ID  Tj  Df  Dd  Db
+181  526 109  72  0   72  
+
+Td  ID  Tj  Df  Dd  Db
+181  860 170  0   11  11  
+
+Td  ID  Tj  Df  Dd  Db
+182  2152 63  9   110  119  
+
+Td  ID  Tj  Df  Dd  Db
+182  536 110  72  0   72  
+
+Td  ID  Tj  Df  Dd  Db
+182  926 180  2   0   2   
+
+Td  ID  Tj  Df  Dd  Db
+182  546 111  71  0   71  
+
+Td  ID  Tj  Df  Dd  Db
+182  870 171  0   11  11  
+
+Td  ID  Tj  Df  Dd  Db
+183  556 112  71  0   71  
+
+Td  ID  Tj  Df  Dd  Db
+183  922 180  3   0   3   
+
+Td  ID  Tj  Df  Dd  Db
+183  566 113  70  0   70  
+
+Td  ID  Tj  Df  Dd  Db
+183  880 172  0   11  11  
+
+Td  ID  Tj  Df  Dd  Db
+184  863 171  0   13  13  
+
+Td  ID  Tj  Df  Dd  Db
+184  911 176  3   5   8   
+
+Td  ID  Tj  Df  Dd  Db
+184  901 175  9   0   9   
+
+Td  ID  Tj  Df  Dd  Db
+184  576 114  70  0   70  
+
+Td  ID  Tj  Df  Dd  Db
+184  897 174  10  0   10  
+
+Td  ID  Tj  Df  Dd  Db
+184  586 115  69  0   69  
+
+Td  ID  Tj  Df  Dd  Db
+184  890 173  0   11  11  
+
+Td  ID  Tj  Df  Dd  Db
+185  891 174  11  0   11  
+
+Td  ID  Tj  Df  Dd  Db
+185  680 131  54  0   54  
+
+Td  ID  Tj  Df  Dd  Db
+185  881 173  12  0   12  
+
+Td  ID  Tj  Df  Dd  Db
+185  877 172  13  0   13  
+
+Td  ID  Tj  Df  Dd  Db
+185  893 174  0   11  11  
+
+Td  ID  Tj  Df  Dd  Db
+185  900 174  0   11  11  
+
+Td  ID  Tj  Df  Dd  Db
+186  934 186  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+186  935 186  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+186  933 186  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+186  910 175  0   11  11  
+
+Td  ID  Tj  Df  Dd  Db
+187  931 186  1   0   1   
+
+Td  ID  Tj  Df  Dd  Db
+187  876 172  15  0   15  
+
+Td  ID  Tj  Df  Dd  Db
+187  871 172  15  0   15  
+
+Td  ID  Tj  Df  Dd  Db
+187  920 176  0   11  11  
+
+Td  ID  Tj  Df  Dd  Db
+188  867 171  17  0   17  
+
+Td  ID  Tj  Df  Dd  Db
+188  866 171  17  0   17  
+
+Td  ID  Tj  Df  Dd  Db
+188  861 171  17  0   17  
+
+Td  ID  Tj  Df  Dd  Db
+189  857 170  19  0   19  
+
+Td  ID  Tj  Df  Dd  Db
+189  856 170  19  0   19  
+
+Td  ID  Tj  Df  Dd  Db
+189  851 170  19  0   19  
+
+Td  ID  Tj  Df  Dd  Db
+190  847 169  21  0   21  
+
+Td  ID  Tj  Df  Dd  Db
+190  846 169  21  0   21  
+
+Td  ID  Tj  Df  Dd  Db
+190  841 169  21  0   21  
+
+Td  ID  Tj  Df  Dd  Db
+191  945 191  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+191  949 191  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+191  948 191  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+192  2436 91  0   101  101  
+
+Td  ID  Tj  Df  Dd  Db
+192  946 191  0   1   1   
+
+Td  ID  Tj  Df  Dd  Db
+192  950 191  0   1   1   
+
+Td  ID  Tj  Df  Dd  Db
+192  955 192  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+192  959 192  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+192  958 192  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+193  956 192  1   0   1   
+
+Td  ID  Tj  Df  Dd  Db
+193  965 193  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+193  969 193  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+193  968 193  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+194  975 194  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+194  979 194  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+194  978 194  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+195  985 195  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+195  989 195  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+195  988 195  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+195  906 175  9   11  20  
+
+Td  ID  Tj  Df  Dd  Db
+196  2995 169  11  16  27  
+
+Td  ID  Tj  Df  Dd  Db
+196  995 196  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+196  999 196  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+196  998 196  0   0   0   
+
+Td  ID  Tj  Df  Dd  Db
+196  896 174  11  11  22  
+
+Td  ID  Tj  Df  Dd  Db
+196  887 173  12  11  23  
+
+Td  ID  Tj  Df  Dd  Db
+196  886 173  12  11  23  
+
+Td  ID  Tj  Df  Dd  Db
+197  980 194  1   2   3   
+
+Td  ID  Tj  Df  Dd  Db
+197  994 196  1   0   1   
+
+Td  ID  Tj  Df  Dd  Db
+197  993 196  1   0   1   
+
+Td  ID  Tj  Df  Dd  Db
+197  992 196  1   0   1   
+
+Td  ID  Tj  Df  Dd  Db
+197  936 186  0   11  11  
+
+Td  ID  Tj  Df  Dd  Db
+198  986 195  1   2   3   
+
+Td  ID  Tj  Df  Dd  Db
+198  990 195  1   2   3   
+
+Td  ID  Tj  Df  Dd  Db
+198  987 195  3   0   3   
+
+Td  ID  Tj  Df  Dd  Db
+198  984 195  3   0   3   
+
+Td  ID  Tj  Df  Dd  Db
+198  983 195  3   0   3   
+
+Td  ID  Tj  Df  Dd  Db
+199  940 186  0   13  13  
+
+Td  ID  Tj  Df  Dd  Db
+199  996 196  1   2   3   
+
+Td  ID  Tj  Df  Dd  Db
+199  938 186  0   13  13  
+
+Td  ID  Tj  Df  Dd  Db
+199  981 195  4   0   4   
+
+Td  ID  Tj  Df  Dd  Db
+199  977 194  5   0   5   
+
+Td  ID  Tj  Df  Dd  Db
+199  974 194  5   0   5   
+
+Td  ID  Tj  Df  Dd  Db
+200  967 193  7   0   7   
+
+Td  ID  Tj  Df  Dd  Db
+200  964 193  7   0   7   
+
+Td  ID  Tj  Df  Dd  Db
+200  963 193  7   0   7   
+
+Td  ID  Tj  Df  Dd  Db
+201  961 193  8   0   8   
+
+Td  ID  Tj  Df  Dd  Db
+201  962 193  8   0   8   
+
+Td  ID  Tj  Df  Dd  Db
+201  957 192  9   0   9   
+
+Td  ID  Tj  Df  Dd  Db
+202  952 192  10  0   10  
+
+Td  ID  Tj  Df  Dd  Db
+202  953 192  10  0   10  
+
+Td  ID  Tj  Df  Dd  Db
+202  954 192  10  0   10  
+
+Td  ID  Tj  Df  Dd  Db
+203  944 191  12  0   12  
+
+Td  ID  Tj  Df  Dd  Db
+203  943 191  12  0   12  
+
+Td  ID  Tj  Df  Dd  Db
+203  942 191  12  0   12  
+
+Td  ID  Tj  Df  Dd  Db
+204  941 191  13  0   13  
+
+Td  ID  Tj  Df  Dd  Db
+204  714 135  69  0   69  
+
+Td  ID  Tj  Df  Dd  Db
+204  677 131  0   73  73  
+
+Td  ID  Tj  Df  Dd  Db
+204  704 134  70  0   70  
+
+Td  ID  Tj  Df  Dd  Db
+204  703 134  70  0   70  
+
+Td  ID  Tj  Df  Dd  Db
+204  960 192  1   11  12  
+
+Td  ID  Tj  Df  Dd  Db
+205  683 132  73  0   73  
+
+Td  ID  Tj  Df  Dd  Db
+205  693 133  72  0   72  
+
+Td  ID  Tj  Df  Dd  Db
+205  679 131  0   74  74  
+
+Td  ID  Tj  Df  Dd  Db
+205  966 193  1   11  12  
+
+Td  ID  Tj  Df  Dd  Db
+206  667 130  0   76  76  
+
+Td  ID  Tj  Df  Dd  Db
+206  671 131  75  0   75  
+
+Td  ID  Tj  Df  Dd  Db
+206  674 131  75  0   75  
+
+Td  ID  Tj  Df  Dd  Db
+206  665 130  76  0   76  
+
+Td  ID  Tj  Df  Dd  Db
+206  976 194  1   11  12  
+
+Td  ID  Tj  Df  Dd  Db
+207  627 119  88  0   88  
+
+Td  ID  Tj  Df  Dd  Db
+207  629 119  88  0   88  
+
+Td  ID  Tj  Df  Dd  Db
+207  663 130  77  0   77  
+
+Td  ID  Tj  Df  Dd  Db
+207  970 193  1   13  14  
+
+Td  ID  Tj  Df  Dd  Db
+208  664 130  77  1   78  
+
+Td  ID  Tj  Df  Dd  Db
+208  626 119  89  0   89  
+
+Td  ID  Tj  Df  Dd  Db
+208  619 118  90  0   90  
+
+Td  ID  Tj  Df  Dd  Db
+208  617 118  90  0   90  
+
+Td  ID  Tj  Df  Dd  Db
+208  997 196  1   11  12  
+
+Td  ID  Tj  Df  Dd  Db
+209  616 118  91  0   91  
+
+Td  ID  Tj  Df  Dd  Db
+209  609 117  92  0   92  
+
+Td  ID  Tj  Df  Dd  Db
+209  607 117  92  0   92  
+
+Td  ID  Tj  Df  Dd  Db
+209  1000 196  2   11  13  
+
+Td  ID  Tj  Df  Dd  Db
+209  991 196  2   11  13  
+
+Td  ID  Tj  Df  Dd  Db
+210  606 117  93  0   93  
+
+Td  ID  Tj  Df  Dd  Db
+210  601 117  93  0   93  
+
+Td  ID  Tj  Df  Dd  Db
+210  600 116  0   94  94  
+
+Td  ID  Tj  Df  Dd  Db
+210  982 195  4   11  15  
+
+Td  ID  Tj  Df  Dd  Db
+211  585 115  96  0   96  
+
+Td  ID  Tj  Df  Dd  Db
+211  582 115  96  0   96  
+
+Td  ID  Tj  Df  Dd  Db
+211  581 115  96  0   96  
+
+Td  ID  Tj  Df  Dd  Db
+211  939 186  0   25  25  
+
+Td  ID  Tj  Df  Dd  Db
+211  973 194  6   11  17  
+
+Td  ID  Tj  Df  Dd  Db
+211  972 194  6   11  17  
+
+Td  ID  Tj  Df  Dd  Db
+211  971 194  6   11  17  
+
+Td  ID  Tj  Df  Dd  Db
+212  571 114  98  0   98  
+
+Td  ID  Tj  Df  Dd  Db
+212  572 114  98  0   98  
+
+Td  ID  Tj  Df  Dd  Db
+212  562 113  99  0   99  
+
+Td  ID  Tj  Df  Dd  Db
+213  551 112  101  0   101  
+
+Td  ID  Tj  Df  Dd  Db
+213  549 111  102  0   102  
+
+Td  ID  Tj  Df  Dd  Db
+213  545 111  102  0   102  
+
+Td  ID  Tj  Df  Dd  Db
+214  541 111  103  0   103  
+
+Td  ID  Tj  Df  Dd  Db
+214  542 111  103  0   103  
+
+Td  ID  Tj  Df  Dd  Db
+214  532 110  104  0   104  
+
+Td  ID  Tj  Df  Dd  Db
+214  951 192  11  11  22  
+
+Td  ID  Tj  Df  Dd  Db
+214  947 191  12  11  23  
+
+Td  ID  Tj  Df  Dd  Db
+215  529 109  106  0   106  
+
+Td  ID  Tj  Df  Dd  Db
+215  522 109  106  0   106  
+
+Td  ID  Tj  Df  Dd  Db
+215  521 109  106  0   106  
+
+Td  ID  Tj  Df  Dd  Db
+215  713 135  69  11  80  
+
+Td  ID  Tj  Df  Dd  Db
+216  511 108  108  0   108  
+
+Td  ID  Tj  Df  Dd  Db
+216  512 108  108  0   108  
+
+Td  ID  Tj  Df  Dd  Db
+216  515 108  108  0   108  
+
+Td  ID  Tj  Df  Dd  Db
+216  694 133  72  11  83  
+
+Td  ID  Tj  Df  Dd  Db
+217  411 82  135  0   135  
+
+Td  ID  Tj  Df  Dd  Db
+217  414 82  135  0   135  
+
+Td  ID  Tj  Df  Dd  Db
+217  432 93  124  0   124  
+
+Td  ID  Tj  Df  Dd  Db
+218  436 93  124  1   125  
+
+Td  ID  Tj  Df  Dd  Db
+218  406 81  137  0   137  
+
+Td  ID  Tj  Df  Dd  Db
+218  409 81  137  0   137  
+
+Td  ID  Tj  Df  Dd  Db
+218  405 81  137  0   137  
+
+Td  ID  Tj  Df  Dd  Db
+219  2056 6   11  202  213  
+
+Td  ID  Tj  Df  Dd  Db
+219  399 80  139  0   139  
+
+Td  ID  Tj  Df  Dd  Db
+219  404 81  138  0   138  
+
+Td  ID  Tj  Df  Dd  Db
+219  396 80  139  0   139  
+
+Td  ID  Tj  Df  Dd  Db
+219  395 80  139  0   139  
+
+Td  ID  Tj  Df  Dd  Db
+219  623 119  89  11  100  
+
+Td  ID  Tj  Df  Dd  Db
+219  621 119  89  11  100  
+
+Td  ID  Tj  Df  Dd  Db
+220  386 79  141  0   141  
+
+Td  ID  Tj  Df  Dd  Db
+220  391 80  140  0   140  
+
+Td  ID  Tj  Df  Dd  Db
+220  394 80  140  0   140  
+
+Td  ID  Tj  Df  Dd  Db
+220  613 118  91  11  102  
+
+Td  ID  Tj  Df  Dd  Db
+220  611 118  91  11  102  
+
+Td  ID  Tj  Df  Dd  Db
+221  384 79  142  0   142  
+
+Td  ID  Tj  Df  Dd  Db
+221  385 79  142  0   142  
+
+Td  ID  Tj  Df  Dd  Db
+221  381 79  142  0   142  
+
+Td  ID  Tj  Df  Dd  Db
+221  603 117  93  11  104  
+
+Td  ID  Tj  Df  Dd  Db
+222  376 78  144  0   144  
+
+Td  ID  Tj  Df  Dd  Db
+222  375 78  144  0   144  
+
+Td  ID  Tj  Df  Dd  Db
+222  374 78  144  0   144  
+
+Td  ID  Tj  Df  Dd  Db
+222  597 116  95  11  106  
+
+Td  ID  Tj  Df  Dd  Db
+222  596 116  95  11  106  
+
+Td  ID  Tj  Df  Dd  Db
+222  593 116  95  11  106  
+
+Td  ID  Tj  Df  Dd  Db
+222  591 116  95  11  106  
+
+Td  ID  Tj  Df  Dd  Db
+223  366 77  146  0   146  
+
+Td  ID  Tj  Df  Dd  Db
+223  369 77  146  0   146  
+
+Td  ID  Tj  Df  Dd  Db
+223  371 78  145  0   145  
+
+Td  ID  Tj  Df  Dd  Db
+224  364 77  147  0   147  
+
+Td  ID  Tj  Df  Dd  Db
+224  361 77  147  0   147  
+
+Td  ID  Tj  Df  Dd  Db
+224  359 76  148  0   148  
+
+Td  ID  Tj  Df  Dd  Db
+224  561 113  100  11  111  
+
+Td  ID  Tj  Df  Dd  Db
+224  552 112  101  11  112  
+
+Td  ID  Tj  Df  Dd  Db
+225  351 76  149  0   149  
+
+Td  ID  Tj  Df  Dd  Db
+225  354 76  149  0   149  
+
+Td  ID  Tj  Df  Dd  Db
+225  356 76  149  0   149  
+
+Td  ID  Tj  Df  Dd  Db
+226  344 75  151  0   151  
+
+Td  ID  Tj  Df  Dd  Db
+226  346 75  151  0   151  
+
+Td  ID  Tj  Df  Dd  Db
+226  341 75  151  0   151  
+
+Td  ID  Tj  Df  Dd  Db
+226  531 110  105  11  116  
+
+Td  ID  Tj  Df  Dd  Db
+226  525 109  106  11  117  
+
+Td  ID  Tj  Df  Dd  Db
+227  336 74  153  0   153  
+
+Td  ID  Tj  Df  Dd  Db
+227  335 74  153  0   153  
+
+Td  ID  Tj  Df  Dd  Db
+227  334 74  153  0   153  
+
+Td  ID  Tj  Df  Dd  Db
+228  331 74  154  0   154  
+
+Td  ID  Tj  Df  Dd  Db
+228  326 73  155  0   155  
+
+Td  ID  Tj  Df  Dd  Db
+228  325 73  155  0   155  
+
+Td  ID  Tj  Df  Dd  Db
+229  321 73  156  0   156  
+
+Td  ID  Tj  Df  Dd  Db
+229  324 73  156  0   156  
+
+Td  ID  Tj  Df  Dd  Db
+230  103 17  0   213  213  
+
+Td  ID  Tj  Df  Dd  Db
+230  45  9   1   220  221  
+
+Td  ID  Tj  Df  Dd  Db
+230  93  16  0   214  214  
+
+Td  ID  Tj  Df  Dd  Db
+230  83  15  0   215  215  
+
+Td  ID  Tj  Df  Dd  Db
+230  401 81  138  11  149  
+
+Td  ID  Tj  Df  Dd  Db
+231  73  14  0   217  217  
+
+Td  ID  Tj  Df  Dd  Db
+231  54  11  220  0   220  
+
+Td  ID  Tj  Df  Dd  Db
+231  53  11  220  0   220  
+
+Td  ID  Tj  Df  Dd  Db
+231  389 79  141  11  152  
+
+Td  ID  Tj  Df  Dd  Db
+233  379 78  144  11  155  
+
+Td  ID  Tj  Df  Dd  Db
+235  365 77  147  11  158  
+
+Td  ID  Tj  Df  Dd  Db
+236  355 76  149  11  160  
+
+Td  ID  Tj  Df  Dd  Db
+237  349 75  151  11  162  
+
+Td  ID  Tj  Df  Dd  Db
+237  345 75  151  11  162  
+
+Td  ID  Tj  Df  Dd  Db
+238  339 74  153  11  164  
+
+Td  ID  Tj  Df  Dd  Db
+239  329 73  155  11  166  
+
+Td  ID  Tj  Df  Dd  Db
+241  122 19  211  11  222  
+
+Td  ID  Tj  Df  Dd  Db
+241  112 18  212  11  223  
+
+Td  ID  Tj  Df  Dd  Db
+242  55  11  220  11  231  
+
+================= Earth Army =================
+Battle Result:  Loss
+
+Total_Es = 188
+Total_Et = 448
+Total_Eg = 302
+
+Es_Destructed/Es_Total = 100%
+Et_Destructed/Et_Total = 100%
+Eg_Destructed/Eg_Total = 100%
+Total_Destructed/Total_Units = 100%
+
+Average_of_DF = 22.8049
+Average_of_Dd = 5.11301
+Average_of_Db = 27.9179
+
+Df/Db = 0.816856%
+Dd/Db = 0.183144%
+
+Healed_successfully/Total_Earth = 0.0692964%
+
+Infected/Total_Es = 5.85106 %
+
+============== Alien Army ============
+Battle Result:  Win
+
+Total_AS = 341
+Total_AM = 493
+Total_AD = 166
+
+As_Destructed/As_Total = 11.1437%
+Am_Destructed/Am_Total = 5.47667%
+Ad_Destructed/Ad_Total = 1.20482%
+Total_Destructed/Total_Units = 6.7%
+
+Average_of_DF = 11.3678
+Average_of_Dd = 49.1494
+Average_of_Db = 60.5172
+
+Df/Db = 0.187844%
+Dd/Db = 0.812156%
+

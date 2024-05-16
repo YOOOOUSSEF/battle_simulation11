@@ -11,6 +11,7 @@ AlienArmy::AlienArmy()
 
 void AlienArmy::addAlienSoldier(Unit* Soldier)
 {
+	
 	AlienSoldiers.enqueue(Soldier);//calling the enqueue function of the queue of aliensoliders
 	if (Soldier->getID() == -1)//checking that we have a new Unit
 	{
@@ -18,31 +19,36 @@ void AlienArmy::addAlienSoldier(Unit* Soldier)
 		id++;
 	}
 	AScount++;//increment the aliensoldiers count
+	
 }
 
 void AlienArmy::addAlienDrone(Unit* Drone)
 {
-	AlienDrones.enqueue(Drone); // calling the enqueue function of the queue of alienDrones
-	if (Drone->getID() == -1)
-	{
-		Drone->setID(id);
-		id++;
-	}
-	ADcount++;
+
+		AlienDrones.enqueue(Drone); // calling the enqueue function of the queue of alienDrones
+		if (Drone->getID() == -1)
+		{
+			Drone->setID(id);
+			id++;
+		}
+		ADcount++;
+
 }
 void AlienArmy::addAlienDroneFirst(Unit* Drone) {
-	AlienDrones.enqueuefirst(Drone); // calling the enqueue function of the queue of alienDrones
-	if (Drone->getID() == -1)
-	{
-		Drone->setID(id);
-		id++;
-	}
-	ADcount++;
+	
+		AlienDrones.enqueuefirst(Drone); // calling the enqueue function of the queue of alienDrones
+		if (Drone->getID() == -1)
+		{
+			Drone->setID(id);
+			id++;
+		}
+		ADcount++;
+
 }
 
 bool AlienArmy::addAlienMonster(Unit* Monster)
 {
-
+	
 	if (AMcount == MAX_LEN)//if the array of monster became full
 		return false;
 	else
@@ -55,8 +61,8 @@ bool AlienArmy::addAlienMonster(Unit* Monster)
 		}
 		AMcount++;//we don't need to save the order of monster so we add it it the last 
 		//empty location to make adding operation in time complexcity of O(1)
-		
 	}
+	
 	return true;
 }
 
@@ -112,6 +118,7 @@ bool AlienArmy::RemoveAlienMonster(Unit*& Monster)
 		//range of the random Index is from 0 to currentSize - 1
 		Monster = AlienMonsters[randomIndex];
 		AlienMonsters[randomIndex] = AlienMonsters[AMcount - 1];  
+		AlienMonsters[AMcount - 1] = nullptr;
 		AMcount--;
 	}
 	return true;
@@ -216,6 +223,9 @@ void AlienArmy::SetAMcount(int x)
 {
 
 	AMcount = x;
+}
+int AlienArmy::getId() {
+	return id;
 }
 
 AlienArmy::~AlienArmy()

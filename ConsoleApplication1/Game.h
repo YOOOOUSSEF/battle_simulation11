@@ -37,7 +37,7 @@ private:
 	int infectioncount,Real_infection_count;
 public:
 	Game();
-	void AttackLogic();
+	bool AttackLogic();
 	void HealLogic();
 	void LoadFromFile(char filename[]);
 	void addToKilledList(Unit* killed);

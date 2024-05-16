@@ -46,6 +46,9 @@ int AlliedArmy::getSUcount()
 {
 	return SUcount;
 }
+int AlliedArmy::getId() {
+	return id;
+}
 AlliedArmy::~AlliedArmy()
 {
 	Unit* Delete;

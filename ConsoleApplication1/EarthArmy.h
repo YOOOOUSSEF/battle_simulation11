@@ -37,6 +37,7 @@ public:
 	int  getEScount();
 	int  getETcount();
 	int  getEGcount();
+	int getId();
 
 	void SetEScount(int x);
 

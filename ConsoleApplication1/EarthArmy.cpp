@@ -11,45 +11,53 @@ EarthArmy::EarthArmy()
 
 void EarthArmy::addEarthSoldier(Unit* soldier)
 {
-	EarthSoldiers.enqueue(soldier); // calling the enqueue function of the queue of aliensoliders
-	if (soldier->getID() == -1)
-	{
-		soldier->setID(id);
-		id++;
-	}
-	EScount++;
+	
+		EarthSoldiers.enqueue(soldier); // calling the enqueue function of the queue of aliensoliders
+		if (soldier->getID() == -1)
+		{
+			soldier->setID(id);
+			id++;
+		}
+		EScount++;
+
 }
 
 void EarthArmy::addEarthGunnery(Unit* Gunnery)
 {
-	EarthGunnerys.enqueue(Gunnery,Gunnery->getHealth()*Gunnery->getPower()); // calling the enqueue function of the queue of aliensoliders
-	//and making the prioirty the multiplication of the health and the power
-	if (Gunnery->getID() == -1)//checking that we have a new Unit
-	{
-		Gunnery->setID(id);
-		id++;
-	}
-	EGcount++;
+	
+		EarthGunnerys.enqueue(Gunnery, Gunnery->getHealth() * Gunnery->getPower()); // calling the enqueue function of the queue of aliensoliders
+		//and making the prioirty the multiplication of the health and the power
+		if (Gunnery->getID() == -1)//checking that we have a new Unit
+		{
+			Gunnery->setID(id);
+			id++;
+		}
+		EGcount++;
+
 }
 
 void EarthArmy::addEarthTank(Unit* EarthTank)
 {
-	EarthTanks.push(EarthTank);//pushing to EarthTanks Stack
-	if (EarthTank->getID()==-1)//check that we have a new Unit
-	{
-		EarthTank->setID(id);
-		id++;
-	}
-	ETcount++;
+
+		EarthTanks.push(EarthTank);//pushing to EarthTanks Stack
+		if (EarthTank->getID() == -1)//check that we have a new Unit
+		{
+			EarthTank->setID(id);
+			id++;
+		}
+		ETcount++;
+	
 }
 void EarthArmy::addHealUnit(Unit* HealUnit) {
-	HealList.push(HealUnit);//pushing to HealList Stack
-	if (HealUnit->getID() == -1)//check that we have a new Unit
-	{
-		HealUnit->setID(id);
-		id++;
-	}
-	HUcount++;
+	
+		HealList.push(HealUnit);//pushing to HealList Stack
+		if (HealUnit->getID() == -1)//check that we have a new Unit
+		{
+			HealUnit->setID(id);
+			id++;
+		}
+		HUcount++;
+	
 }
 
 bool EarthArmy::RemoveEarthSoldier(Unit*& EarthSoldier)
@@ -195,6 +203,9 @@ void EarthArmy::SetEGcount(int x)
 {
 	
 	EGcount = x;
+}
+int EarthArmy::getId() {
+	return id;
 }
 
 EarthArmy::~EarthArmy()

@@ -1,15 +1,7 @@
-﻿  AlliedArmy.cpp
-C:\battle_simulation_4\ConsoleApplication1\AlliedArmy.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-  main.cpp
-C:\battle_simulation_4\ConsoleApplication1\EarthArmy.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\battle_simulation_4\ConsoleApplication1\AlliedArmy.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-  EarthArmy.cpp
-C:\battle_simulation_4\ConsoleApplication1\EarthArmy.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-  Game.cpp
+﻿  Game.cpp
 C:\battle_simulation_4\ConsoleApplication1\EarthArmy.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
 C:\battle_simulation_4\ConsoleApplication1\AlliedArmy.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
 C:\battle_simulation_4\ConsoleApplication1\Game.cpp(30,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\battle_simulation_4\ConsoleApplication1\Game.cpp(546,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\battle_simulation_4\ConsoleApplication1\Game.cpp(1171,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Generating Code...
+C:\battle_simulation_4\ConsoleApplication1\Game.cpp(552,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\battle_simulation_4\ConsoleApplication1\Game.cpp(1265,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   ConsoleApplication1.vcxproj -> C:\battle_simulation_4\x64\Debug\ConsoleApplication1.exe
